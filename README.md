@@ -35,6 +35,7 @@
 - [这应该是你见过的最全前端下载总结](https://juejin.im/post/5c3c4b3551882524a5420119)
 - [WebSocket是时候展现你优秀的一面了](https://juejin.im/post/5bc7f6b96fb9a05d3447eef8)
 - [Array.prototype.reduce 实用指南](https://juejin.im/post/5bab8a9c6fb9a05d0e2e6bf0)
+- [JavaScript正则表达式备忘单](https://juejin.im/post/5c7496fdf265da2dda6957d2?utm_source=gold_browser_extension#comment)
 
 #### 移动端开发
 - [mobileTech-移动端开发所需要的一些资源与小技巧](https://github.com/jtyjty99999/mobileTech)
