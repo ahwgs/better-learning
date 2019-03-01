@@ -36,6 +36,8 @@
 - [WebSocket是时候展现你优秀的一面了](https://juejin.im/post/5bc7f6b96fb9a05d3447eef8)
 - [Array.prototype.reduce 实用指南](https://juejin.im/post/5bab8a9c6fb9a05d0e2e6bf0)
 - [JavaScript正则表达式备忘单](https://juejin.im/post/5c7496fdf265da2dda6957d2?utm_source=gold_browser_extension#comment)
+- [一种自动化生成骨架屏的方案](https://github.com/Jocs/jocs.github.io/issues/22)
+- [vue-content-loader](https://github.com/egoist/vue-content-loader)
 
 #### 移动端开发
 - [mobileTech-移动端开发所需要的一些资源与小技巧](https://github.com/jtyjty99999/mobileTech)
