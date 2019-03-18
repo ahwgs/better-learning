@@ -51,6 +51,7 @@
 - [dwqs-Shopee](https://github.com/dwqs/blog)
 - [冴羽的博客](https://github.com/mqyqingfeng/Blog)
 - [yck](https://github.com/KieSun)
+- [frontend-weekly 前端周刊](https://frontend-weekly.com/)
 
 
 ##### ... 持续更新
