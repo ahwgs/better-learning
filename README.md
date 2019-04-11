@@ -1,6 +1,9 @@
 # better-learning
 整理收藏一些优秀的文章及大佬博客留着慢慢学习
 
+    原文:https://www.ahwgs.cn/youxiuwenzhangshoucang.html
+    github:https://github.com/ahwgs/better-learning
+
 ### 规范
 #### 协作规范
 - [中文技术文档协作规范](https://github.com/ruanyf/document-style-guide)(阮一峰)
@@ -57,3 +60,4 @@
 
 
 ##### ... 持续更新
+
