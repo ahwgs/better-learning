@@ -62,6 +62,13 @@
 - [yck](https://github.com/KieSun)
 - [frontend-weekly 前端周刊](https://frontend-weekly.com/)
 - [天猪部落格(egg.js核心开发者)](https://github.com/atian25/blog/issues)
+- [张鑫旭-css](https://www.zhangxinxu.com/)
+- [CodeSky 代码之空-敖天羽](https://www.codesky.me/)
+
+### 知名技术团队
+- [大转转FE](http://zzfed.com/#/list)
+- [大搜车「无线开发中心」团队](https://blog.souche.com/)
+- [有赞技术团队](https://tech.youzan.com/)
 
 
 ##### ... 持续更新
