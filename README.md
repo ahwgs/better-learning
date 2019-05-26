@@ -52,13 +52,14 @@
 
 #### 移动端开发
 - [mobileTech-移动端开发所需要的一些资源与小技巧](https://github.com/jtyjty99999/mobileTech)
+- [移动端页面开发适配 rem布局原理](https://segmentfault.com/a/1190000007526917)
 
 ### 爬虫
 - [这可能是你见过的最全的网络爬虫干货总结](https://juejin.im/post/5bce8201518825773605597d)
 
 ### H5踩坑
 - [可能这些是你想要的H5软键盘兼容方案](https://segmentfault.com/a/1190000018959389#articleHeader12)
-
+- [滚动穿透问题的解决方案](https://juejin.im/post/5c2dc9cce51d45690a254b79)
 ### 其他
 - [前端学习书籍](https://github.com/threerocks/studyFiles/tree/master/js)
 - [从 IIFE 聊到 Babel 带你深入了解前端模块化发展体系](https://mp.weixin.qq.com/s?__biz=MzIyNTU1NjQ3MQ==&mid=2247483698&idx=1&sn=05dffe94a50c058c123408530fd80e50&chksm=e87ca3aadf0b2abcc7dadf59c237ccf1f35138a0f80b19ce91b15768f9bb96258dc2e661aae7&mpshare=1&scene=1&srcid=05158eVLfaRLuXOMAfs3TKtx&key=e915f6782fe7b316e85381796db7d8130e045de195be2d1706b2b1321b299cb532d9ce56ee4301ddd43e7699182a8ed0f8cc11d837f39e9ec5b5fad37f3fd571814936728ce4332873573a1115bfe64f&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
@@ -68,6 +69,7 @@
 - [扔掉Create React App，打造你自己的React生成工具！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490327&idx=1&sn=6a5ca6600e0212bab88125f16d545585&chksm=f951ae54ce262742826d87a78e152faabcfd7acbfe2e14c2433bf3038048d7919196b24dec80&mpshare=1&scene=1&srcid=0515W4QiCxUpmJIEbWva0TaY&key=5af5195f105422aaac34a017898055a381199b21cf88e5d498cd8e4da799e07004df94e9143d940c19f87b254561d3f3c01afa1f1f8dd0c84ec0ef62ae4d437936be314de19f1670c8a6fffc095f3a6d&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [Vuex快速使用](https://mp.weixin.qq.com/s?__biz=MzU4MTQ2NDQyOQ==&mid=2247483794&idx=1&sn=a9628f3453beed0781aae30ea6255b94&chksm=fd467990ca31f0861a4a03866e5f7bfd827b3e844880964ce5c29c556a4e7b635b3dcbe27cc4&mpshare=1&scene=1&srcid=0515sT9CWEcfQ3OU5Mti2Lzx&key=f85e7af70d127b0bf7df51e39bb41ecd1a5146ca92c15bfcfdea02462a0ac7bcde2396a82681c8dc0f2964f13076e0c21af364a9eb1ed4de44a0b2bdb3eb0f051037fd724f8aa0fc08c14e5d78b7c6b2&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [前端一年精选好文，请打包带走](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490208&idx=1&sn=a0c08a9912e16d5e0b12be0c4e83822d&chksm=f951afe3ce2626f52535e32922708a003eb9d572978ea4ce5479ee43385750696cf3c3138f26&mpshare=1&scene=1&srcid=0515aeaqVQbSwPmKibq2XIEt&key=e915f6782fe7b316a9034e62c310296e90b7df8dfd64a9bff5a1557cf57dd95e537e90fa13778d1f280093e249eef7ff4b3eeb523c9d86475ff23b8ff615ecc97ba3735a422b7b3dd568eb6ab0cbdbd7&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
+- [斐波那契数列求和的js方案以及优化](https://segmentfault.com/a/1190000007115162)
 
 ### 个人博客
 - [木易杨，哈罗出行高级前端工程师](https://github.com/yygmind/blog/)
@@ -90,5 +92,5 @@
 - [酷家乐平台前端博客](https://webfe.kujiale.com/)
 
 
-##### ... 持续更新(最新更新于2019/05/15)
+##### ... 持续更新(最新更新于2019/05/26)
 
