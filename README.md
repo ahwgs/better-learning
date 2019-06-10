@@ -32,6 +32,7 @@
 
 #### Electron
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
+- [用JS开发跨平台桌面应用，从原理到实践](用JS开发跨平台桌面应用，从原理到实践)
 
 #### webpack
 - [webpack 插件总结归类](https://juejin.im/post/5bd2d2315188252734475575)
@@ -84,6 +85,7 @@
 - [花裤衩-iview作者](https://juejin.im/user/5648a5ca60b259caebaf7562)
 - [dendoink](https://juejin.im/user/585a2f52128fe10069ba1b95)
 - [舞动乾坤 Bug | 魔法师百度](https://juejin.im/user/57e737f6c4c971005f6bcd8d)
+- [前端小智](https://github.com/qq449245884/xiaozhi)
 ### 技术团队
 - [大转转FE](http://zzfed.com/#/list)
 - [大搜车「无线开发中心」团队](https://blog.souche.com/)
@@ -92,5 +94,5 @@
 - [酷家乐平台前端博客](https://webfe.kujiale.com/)
 
 
-##### ... 持续更新(最新更新于2019/05/26)
+##### ... 持续更新(最新更新于2019/06/10)
 
