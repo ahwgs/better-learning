@@ -29,10 +29,11 @@
 - [知乎-虹晨-你真的理解setState吗？](https://zhuanlan.zhihu.com/p/39512941)
 - [聊一聊 React 中更新 ui 视图的几种方式](https://zhuanlan.zhihu.com/p/46140569)
 - [React Interview Questions & Answers](https://github.com/ahwgs/reactjs-interview-questions)
+- [React源码解析-react.jokcy.me](https://react.jokcy.me/)
 
 #### Electron
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
-- [用JS开发跨平台桌面应用，从原理到实践](用JS开发跨平台桌面应用，从原理到实践)
+- [用JS开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
 
 #### webpack
 - [webpack 插件总结归类](https://juejin.im/post/5bd2d2315188252734475575)
