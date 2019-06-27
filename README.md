@@ -93,7 +93,7 @@
 - [有赞技术团队](https://tech.youzan.com/)
 - [滴滴技术](https://juejin.im/user/5c874e07e51d4548b40ac7e1)
 - [酷家乐平台前端博客](https://webfe.kujiale.com/)
+- [京东凹凸实验室](https://aotu.io/index.html)
 
-
-##### ... 持续更新(最新更新于2019/06/10)
+##### ... 持续更新(最新更新于2019/06/27)
 
