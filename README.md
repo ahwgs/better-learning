@@ -51,6 +51,8 @@
 - [面试篇寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
 - [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 - [2019年前端面试都聊啥？一起来看看](https://juejin.im/post/5bf5610be51d452a1353b08d)
+- [jsliang 的 2019 面试准备](https://juejin.im/post/5c8e4cd3f265da67c87454a0)
+- [总结了17年初到18年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
 
 #### 移动端开发
 - [mobileTech-移动端开发所需要的一些资源与小技巧](https://github.com/jtyjty99999/mobileTech)
@@ -95,5 +97,11 @@
 - [酷家乐平台前端博客](https://webfe.kujiale.com/)
 - [京东凹凸实验室](https://aotu.io/index.html)
 
-##### ... 持续更新(最新更新于2019/06/27)
+### 优秀的网站资源
+- [You-need-to-know-css 常用CSS属性在线演示](https://lhammer.cn/You-need-to-know-css/#/)
+- [手绘风格CSS框架](https://www.getpapercss.com/)
+- [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh/blob/master/README.md)
+- [在线logo设计神器](https://www.logosc.cn/)
+- [稿定设计 在线ps](https://ps.gaoding.com/#/)
+##### ... 持续更新(最新更新于2019/07/01)
 
