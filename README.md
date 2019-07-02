@@ -19,9 +19,13 @@
 
 #### 异步编程
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
+- [JavaScript异步编程](https://www.ahwgs.cn/javascriptyibubiancheng.html)
 
 #### vue
 - [learnVue-深入学习vue源码](https://github.com/answershuto/learnVue) 5k star
+- [vue-cli3 项目从搭建优化到docker部署](https://juejin.im/post/5c4a6fcd518825469414e062)
+- [手摸手，带你用vue撸后台 系列五(v4.0新版本)](https://juejin.im/post/5c92ff94f265da6128275a85)
+- [vue 路由 按需 keep-alive](https://juejin.im/post/5cdcbae9e51d454759351d84)
 
 #### react
 - [译 以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
@@ -39,6 +43,12 @@
 - [webpack 插件总结归类](https://juejin.im/post/5bd2d2315188252734475575)
 - [干货！撸一个webpack插件(内含tapable详解+webpack流程)](https://juejin.im/post/5beb8875e51d455e5c4dd83f)
 
+#### flutter
+- [Dart中文社区](http://dart.goodev.org/)
+- [Flutter实战教程](https://book.flutterchina.club/)
+- [Flutter中文网](https://flutterchina.club/)
+- [6.9k star Flutter項目 GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter)
+- [Flutter完整开发实战详解](https://guoshuyu.cn/home/wx/)
 #### 其他
 - [这应该是你见过的最全前端下载总结](https://juejin.im/post/5c3c4b3551882524a5420119)
 - [WebSocket是时候展现你优秀的一面了](https://juejin.im/post/5bc7f6b96fb9a05d3447eef8)
@@ -89,6 +99,7 @@
 - [dendoink](https://juejin.im/user/585a2f52128fe10069ba1b95)
 - [舞动乾坤 Bug | 魔法师百度](https://juejin.im/user/57e737f6c4c971005f6bcd8d)
 - [前端小智](https://github.com/qq449245884/xiaozhi)
+- [恋猫de小郭 移动端开发](https://github.com/CarGuo)
 ### 技术团队
 - [大转转FE](http://zzfed.com/#/list)
 - [大搜车「无线开发中心」团队](https://blog.souche.com/)
@@ -96,12 +107,13 @@
 - [滴滴技术](https://juejin.im/user/5c874e07e51d4548b40ac7e1)
 - [酷家乐平台前端博客](https://webfe.kujiale.com/)
 - [京东凹凸实验室](https://aotu.io/index.html)
-
+- [技术胖-专注于前端开发与免费视频](http://jspang.com/)
 ### 优秀的网站资源
 - [You-need-to-know-css 常用CSS属性在线演示](https://lhammer.cn/You-need-to-know-css/#/)
 - [手绘风格CSS框架](https://www.getpapercss.com/)
 - [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh/blob/master/README.md)
 - [在线logo设计神器](https://www.logosc.cn/)
 - [稿定设计 在线ps](https://ps.gaoding.com/#/)
-##### ... 持续更新(最新更新于2019/07/01)
+- [代码转优美的图片](https://carbon.now.sh)
+##### ... 持续更新(最新更新于2019/07/02)
 
