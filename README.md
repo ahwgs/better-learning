@@ -4,69 +4,73 @@
     原文:https://www.ahwgs.cn/youxiuwenzhangshoucang.html
     github:https://github.com/ahwgs/better-learning
 
-### 规范
-#### 协作规范
+### 协作规范
 - [中文技术文档协作规范](https://github.com/ruanyf/document-style-guide)(阮一峰)
 - [Javascript编程风格](http://www.ruanyifeng.com/blog/2012/04/javascript_programming_style.html)
 - [凹凸实验室前端代码规范](https://guide.aotu.io/docs/)
 - [vuejs风格指南](https://cn.vuejs.org/v2/style-guide/)
-### JavaScript
-#### Event Loop
+### Event Loop
 - [这一次，彻底弄懂 JavaScript - 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 - [一次弄懂Event Loop（彻底解决此类面试问题)](https://juejin.im/post/5c3d8956e51d4511dc72c200)
 - [浏览器与Node的事件循环(Event Loop)有何区别?](https://juejin.im/post/5c337ae06fb9a049bc4cd218)
 - [笔试题——JavaScript事件循环机制（event loop、macrotask、microtask](https://juejin.im/post/5bac87b6f265da0a906f78d8)
 
-#### 异步编程
+### 异步编程
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
 - [JavaScript异步编程](https://www.ahwgs.cn/javascriptyibubiancheng.html)
 
-#### vue
+### vue
 - [learnVue-深入学习vue源码](https://github.com/answershuto/learnVue) 5k star
 - [vue-cli3 项目从搭建优化到docker部署](https://juejin.im/post/5c4a6fcd518825469414e062)
 - [手摸手，带你用vue撸后台 系列五(v4.0新版本)](https://juejin.im/post/5c92ff94f265da6128275a85)
 - [vue 路由 按需 keep-alive](https://juejin.im/post/5cdcbae9e51d454759351d84)
 
-#### react
+### react
 - [译 以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
 - [扔掉Create React App，打造你自己的React生成工具！](https://mp.weixin.qq.com/s/76007EbaArO8tp2Lzb6dVA)
 - [知乎-虹晨-你真的理解setState吗？](https://zhuanlan.zhihu.com/p/39512941)
 - [聊一聊 React 中更新 ui 视图的几种方式](https://zhuanlan.zhihu.com/p/46140569)
 - [React Interview Questions & Answers](https://github.com/ahwgs/reactjs-interview-questions)
 - [React源码解析-react.jokcy.me](https://react.jokcy.me/)
+- [Redux 中文文档](http://cn.redux.js.org/)
 
-#### Electron
+### Electron
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 - [用JS开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
 
-#### webpack
+### webpack
 - [webpack 插件总结归类](https://juejin.im/post/5bd2d2315188252734475575)
 - [干货！撸一个webpack插件(内含tapable详解+webpack流程)](https://juejin.im/post/5beb8875e51d455e5c4dd83f)
+- [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
+- [搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
 
-#### flutter
+### flutter
 - [Dart中文社区](http://dart.goodev.org/)
 - [Flutter实战教程](https://book.flutterchina.club/)
 - [Flutter中文网](https://flutterchina.club/)
 - [6.9k star Flutter項目 GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter)
 - [Flutter完整开发实战详解](https://guoshuyu.cn/home/wx/)
-#### 其他
+### 其他
 - [这应该是你见过的最全前端下载总结](https://juejin.im/post/5c3c4b3551882524a5420119)
 - [WebSocket是时候展现你优秀的一面了](https://juejin.im/post/5bc7f6b96fb9a05d3447eef8)
 - [Array.prototype.reduce 实用指南](https://juejin.im/post/5bab8a9c6fb9a05d0e2e6bf0)
 - [JavaScript正则表达式备忘单](https://juejin.im/post/5c7496fdf265da2dda6957d2?utm_source=gold_browser_extension#comment)
 - [一种自动化生成骨架屏的方案](https://github.com/Jocs/jocs.github.io/issues/22)
 - [vue-content-loader](https://github.com/egoist/vue-content-loader)
-
-#### 面试
+- [awesome-javascript sorrycc的js资源整合](https://github.com/sorrycc/awesome-javascript)
+### 面试
 - [面试篇寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
 - [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 - [2019年前端面试都聊啥？一起来看看](https://juejin.im/post/5bf5610be51d452a1353b08d)
 - [jsliang 的 2019 面试准备](https://juejin.im/post/5c8e4cd3f265da67c87454a0)
 - [总结了17年初到18年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
 
-#### 移动端开发
+### 移动端开发
 - [mobileTech-移动端开发所需要的一些资源与小技巧](https://github.com/jtyjty99999/mobileTech)
 - [移动端页面开发适配 rem布局原理](https://segmentfault.com/a/1190000007526917)
+
+### nodejs 
+- [awesome-nodejs nodejs资源整合 3w star+](https://github.com/sindresorhus/awesome-nodejs)
 
 ### 爬虫
 - [这可能是你见过的最全的网络爬虫干货总结](https://juejin.im/post/5bce8201518825773605597d)
@@ -84,6 +88,12 @@
 - [Vuex快速使用](https://mp.weixin.qq.com/s?__biz=MzU4MTQ2NDQyOQ==&mid=2247483794&idx=1&sn=a9628f3453beed0781aae30ea6255b94&chksm=fd467990ca31f0861a4a03866e5f7bfd827b3e844880964ce5c29c556a4e7b635b3dcbe27cc4&mpshare=1&scene=1&srcid=0515sT9CWEcfQ3OU5Mti2Lzx&key=f85e7af70d127b0bf7df51e39bb41ecd1a5146ca92c15bfcfdea02462a0ac7bcde2396a82681c8dc0f2964f13076e0c21af364a9eb1ed4de44a0b2bdb3eb0f051037fd724f8aa0fc08c14e5d78b7c6b2&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [前端一年精选好文，请打包带走](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490208&idx=1&sn=a0c08a9912e16d5e0b12be0c4e83822d&chksm=f951afe3ce2626f52535e32922708a003eb9d572978ea4ce5479ee43385750696cf3c3138f26&mpshare=1&scene=1&srcid=0515aeaqVQbSwPmKibq2XIEt&key=e915f6782fe7b316a9034e62c310296e90b7df8dfd64a9bff5a1557cf57dd95e537e90fa13778d1f280093e249eef7ff4b3eeb523c9d86475ff23b8ff615ecc97ba3735a422b7b3dd568eb6ab0cbdbd7&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [斐波那契数列求和的js方案以及优化](https://segmentfault.com/a/1190000007115162)
+
+### 浏览器相关
+- [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
+- [html5shiv html5标签被IE识别](https://github.com/aFarkas/html5shiv)
+- [Modernizr 2.3w star+ 检测浏览器功能支持情况的js库,可以检测18项css3功能以及40多项关于h5的功能](https://github.com/Modernizr/Modernizr)
+
 
 ### 个人博客
 - [木易杨，哈罗出行高级前端工程师](https://github.com/yygmind/blog/)
@@ -115,5 +125,7 @@
 - [在线logo设计神器](https://www.logosc.cn/)
 - [稿定设计 在线ps](https://ps.gaoding.com/#/)
 - [代码转优美的图片](https://carbon.now.sh)
-##### ... 持续更新(最新更新于2019/07/02)
+- [矢量图插图网](https://undraw.co/illustrations)
+- [网易云音乐 NodeJS 版 API 100+](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
+##### ... 持续更新(最新更新于2019/07/03)
 
