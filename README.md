@@ -44,7 +44,7 @@
 - [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
 - [搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
 
-### flutter
+### Flutter
 - [Dart中文社区](http://dart.goodev.org/)
 - [Flutter实战教程](https://book.flutterchina.club/)
 - [Flutter中文网](https://flutterchina.club/)
@@ -65,6 +65,7 @@
 - [jsliang 的 2019 面试准备](https://juejin.im/post/5c8e4cd3f265da67c87454a0)
 - [总结了17年初到18年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
 - [这儿有20道大厂面试题等你查收](https://juejin.im/post/5d124a12f265da1b9163a28d)
+- [一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
 ### 移动端开发
 - [mobileTech-移动端开发所需要的一些资源与小技巧](https://github.com/jtyjty99999/mobileTech)
 - [移动端页面开发适配 rem布局原理](https://segmentfault.com/a/1190000007526917)
@@ -128,5 +129,5 @@
 - [代码转优美的图片](https://carbon.now.sh)
 - [矢量图插图网](https://undraw.co/illustrations)
 - [网易云音乐 NodeJS 版 API 100+](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
-##### ... 持续更新(最新更新于2019/07/03)
+##### ... 持续更新(最新更新于2019/07/11)
 
