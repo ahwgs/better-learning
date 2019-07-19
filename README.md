@@ -33,6 +33,7 @@
 - [React Interview Questions & Answers](https://github.com/ahwgs/reactjs-interview-questions)
 - [React源码解析-react.jokcy.me](https://react.jokcy.me/)
 - [Redux 中文文档](http://cn.redux.js.org/)
+- [!!!React小书](http://huziketang.mangojuice.top/books/react/)
 
 ### Electron
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
@@ -129,5 +130,5 @@
 - [代码转优美的图片](https://carbon.now.sh)
 - [矢量图插图网](https://undraw.co/illustrations)
 - [网易云音乐 NodeJS 版 API 100+](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
-##### ... 持续更新(最新更新于2019/07/11)
+##### ... 持续更新(最新更新于2019/07/19)
 
