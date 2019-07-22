@@ -81,6 +81,11 @@
 - [可能这些是你想要的H5软键盘兼容方案](https://segmentfault.com/a/1190000018959389#articleHeader12)
 - [滚动穿透问题的解决方案](https://juejin.im/post/5c2dc9cce51d45690a254b79)
 - [VUE开发微信H5页面总结](https://juejin.im/post/5c0490ef51882524cb6f5652#heading-0)
+
+### Babel
+- [前端词典】关于 Babel 你必须知道的](https://mp.weixin.qq.com/s?__biz=Mzg5NDEyMzA2NQ==&mid=2247484083&idx=1&sn=4268252b548ad5a425308614e9390513&chksm=c0252fe5f752a6f362b7ddf9036dd2bc0764ed427e1c8e042ef7c822f0ced29a4be9cdaaa00f&mpshare=1&scene=1&srcid=0722nH1NoSl07rYkUHlEE3Gi&key=7865e1e5a7ba115efe8818947150b8d5c7491fc6228a650a91bcc0a4cab895c49fbb9ff681b9823ed4efbb214b898e67ea528f5858d62cad17ea854e3016ecd4124461aecdc90161afd70108c0c8b021&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PWPQgBOm4UzUeMjy6roqmvk6fVPiuY9VoxNoG3wBXcjM7vj0lhks26U3wkrUgBdC)
+- [结合Babel 7.4.0 谈一下Babel-runtime 和 Babel-polyfill](https://juejin.im/post/5d0373a95188251e1b5ebb6c)
+
 ### 其他
 - [前端学习书籍](https://github.com/threerocks/studyFiles/tree/master/js)
 - [从 IIFE 聊到 Babel 带你深入了解前端模块化发展体系](https://mp.weixin.qq.com/s?__biz=MzIyNTU1NjQ3MQ==&mid=2247483698&idx=1&sn=05dffe94a50c058c123408530fd80e50&chksm=e87ca3aadf0b2abcc7dadf59c237ccf1f35138a0f80b19ce91b15768f9bb96258dc2e661aae7&mpshare=1&scene=1&srcid=05158eVLfaRLuXOMAfs3TKtx&key=e915f6782fe7b316e85381796db7d8130e045de195be2d1706b2b1321b299cb532d9ce56ee4301ddd43e7699182a8ed0f8cc11d837f39e9ec5b5fad37f3fd571814936728ce4332873573a1115bfe64f&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
@@ -91,6 +96,7 @@
 - [Vuex快速使用](https://mp.weixin.qq.com/s?__biz=MzU4MTQ2NDQyOQ==&mid=2247483794&idx=1&sn=a9628f3453beed0781aae30ea6255b94&chksm=fd467990ca31f0861a4a03866e5f7bfd827b3e844880964ce5c29c556a4e7b635b3dcbe27cc4&mpshare=1&scene=1&srcid=0515sT9CWEcfQ3OU5Mti2Lzx&key=f85e7af70d127b0bf7df51e39bb41ecd1a5146ca92c15bfcfdea02462a0ac7bcde2396a82681c8dc0f2964f13076e0c21af364a9eb1ed4de44a0b2bdb3eb0f051037fd724f8aa0fc08c14e5d78b7c6b2&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [前端一年精选好文，请打包带走](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490208&idx=1&sn=a0c08a9912e16d5e0b12be0c4e83822d&chksm=f951afe3ce2626f52535e32922708a003eb9d572978ea4ce5479ee43385750696cf3c3138f26&mpshare=1&scene=1&srcid=0515aeaqVQbSwPmKibq2XIEt&key=e915f6782fe7b316a9034e62c310296e90b7df8dfd64a9bff5a1557cf57dd95e537e90fa13778d1f280093e249eef7ff4b3eeb523c9d86475ff23b8ff615ecc97ba3735a422b7b3dd568eb6ab0cbdbd7&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [斐波那契数列求和的js方案以及优化](https://segmentfault.com/a/1190000007115162)
+
 
 ### 浏览器相关
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
