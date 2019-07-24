@@ -96,7 +96,7 @@
 - [Vuex快速使用](https://mp.weixin.qq.com/s?__biz=MzU4MTQ2NDQyOQ==&mid=2247483794&idx=1&sn=a9628f3453beed0781aae30ea6255b94&chksm=fd467990ca31f0861a4a03866e5f7bfd827b3e844880964ce5c29c556a4e7b635b3dcbe27cc4&mpshare=1&scene=1&srcid=0515sT9CWEcfQ3OU5Mti2Lzx&key=f85e7af70d127b0bf7df51e39bb41ecd1a5146ca92c15bfcfdea02462a0ac7bcde2396a82681c8dc0f2964f13076e0c21af364a9eb1ed4de44a0b2bdb3eb0f051037fd724f8aa0fc08c14e5d78b7c6b2&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [前端一年精选好文，请打包带走](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490208&idx=1&sn=a0c08a9912e16d5e0b12be0c4e83822d&chksm=f951afe3ce2626f52535e32922708a003eb9d572978ea4ce5479ee43385750696cf3c3138f26&mpshare=1&scene=1&srcid=0515aeaqVQbSwPmKibq2XIEt&key=e915f6782fe7b316a9034e62c310296e90b7df8dfd64a9bff5a1557cf57dd95e537e90fa13778d1f280093e249eef7ff4b3eeb523c9d86475ff23b8ff615ecc97ba3735a422b7b3dd568eb6ab0cbdbd7&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [斐波那契数列求和的js方案以及优化](https://segmentfault.com/a/1190000007115162)
-
+- [图片布局的最全实现方式都在这了！附源码](https://mp.weixin.qq.com/s?__biz=MzU1NDg5MDU3NQ==&mid=2247484089&idx=1&sn=25adf858e315731d49ee295077c24f48&key=adf1da94ffba578c3f48e5be613c774d256405b780acf26428a31733fe1e42c75ef434c60eb5e864f478ae7e57069c8f40c62d068bf9ececa00c58729ece7f2c4118a0a4c7d63eb84f80887220832d39&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PWPQgBOm4UzUeMjy6roqmvk6fVPiuY9VoxNoG3wBXcjM7vj0lhks26U3wkrUgBdC)
 
 ### 浏览器相关
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
@@ -136,5 +136,31 @@
 - [代码转优美的图片](https://carbon.now.sh)
 - [矢量图插图网](https://undraw.co/illustrations)
 - [网易云音乐 NodeJS 版 API 100+](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
-##### ... 持续更新(最新更新于2019/07/22)
+
+### 在线配色方案网站
+- [渐变色配色](https://webgradients.com/)
+- [配色、图片颜色修改、配色提取、logo生成](https://shapefactory.co)
+- [基于色彩原理的扁平插画快速配色](http://colorsupplyyy.com/app/)
+- [随机产生优质配色灵感](http://colormind.io/)
+- [http://colorhunt.co/popular](http://colorhunt.co/popular)
+- [http://www.peise.net/](http://www.peise.net/)
+- [https://coolors.co/461220-8c2f39-b23a48-fcb9b2-fed0bb](https://coolors.co/461220-8c2f39-b23a48-fcb9b2-fed0bb)
+- [https://www.materialui.co/colors ](https://www.materialui.co/colors )
+- [选50种你喜欢的颜色 自动为你生成配色方案：http://khroma.co/ ](http://khroma.co/)
+- [快速提供前背景色配色灵感](https://randoma11y.com/)
+- [快速提供前背景色配色灵感](https://www.threebu.it/random-material-palette/ )
+- [选择一个颜色，匹配色彩方案](http://www.colorhexa.com/f84604)
+- [获取网站的配色方案](http://webcolourdata.com/ )
+- [知名画家名作颜色提取](http://www.colorlisa.com/ )
+- [点击上方颜色，自动生成配色方案](http://www.designskilz.com/colors/red 
+)
+- [点击左侧标签，拖动鼠标差调整自己喜欢的颜色](http://www.colourco.de/)
+- [选择≥2种的颜色，自动生成扁平化配色界面](https://www.materialpalette.com/ )
+- [热点与数据可视化配色](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3 )
+- [在线调整配色方案](https://www.sessions.edu/color-calculator/)
+- [颜色安全 ](http://colorsafe.co/ 
+)
+- [配色方案](http://www.vanschneider.com/colors/)
+- [中国风配色](http://zhongguose.com/)
+##### ... 持续更新(最新更新于2019/07/24)
 
