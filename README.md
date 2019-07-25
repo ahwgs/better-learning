@@ -86,6 +86,11 @@
 - [【前端词典】关于 Babel 你必须知道的](https://mp.weixin.qq.com/s?__biz=Mzg5NDEyMzA2NQ==&mid=2247484083&idx=1&sn=4268252b548ad5a425308614e9390513&chksm=c0252fe5f752a6f362b7ddf9036dd2bc0764ed427e1c8e042ef7c822f0ced29a4be9cdaaa00f&mpshare=1&scene=1&srcid=0722nH1NoSl07rYkUHlEE3Gi&key=7865e1e5a7ba115efe8818947150b8d5c7491fc6228a650a91bcc0a4cab895c49fbb9ff681b9823ed4efbb214b898e67ea528f5858d62cad17ea854e3016ecd4124461aecdc90161afd70108c0c8b021&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PWPQgBOm4UzUeMjy6roqmvk6fVPiuY9VoxNoG3wBXcjM7vj0lhks26U3wkrUgBdC)
 - [结合Babel 7.4.0 谈一下Babel-runtime 和 Babel-polyfill](https://juejin.im/post/5d0373a95188251e1b5ebb6c)
 
+### RabbitMQ
+- [rabbitmq教程](https://gtcsq.readthedocs.io/en/latest/openstack/rabbitmq_doc.html#)
+- [RabbitMQ 中文文档](http://rabbitmq.mr-ping.com/)
+- [架构设计之NodeJS操作消息队列RabbitMQ](https://www.cnblogs.com/wukong-holmes/p/9306733.html)
+
 ### 其他
 - [前端学习书籍](https://github.com/threerocks/studyFiles/tree/master/js)
 - [从 IIFE 聊到 Babel 带你深入了解前端模块化发展体系](https://mp.weixin.qq.com/s?__biz=MzIyNTU1NjQ3MQ==&mid=2247483698&idx=1&sn=05dffe94a50c058c123408530fd80e50&chksm=e87ca3aadf0b2abcc7dadf59c237ccf1f35138a0f80b19ce91b15768f9bb96258dc2e661aae7&mpshare=1&scene=1&srcid=05158eVLfaRLuXOMAfs3TKtx&key=e915f6782fe7b316e85381796db7d8130e045de195be2d1706b2b1321b299cb532d9ce56ee4301ddd43e7699182a8ed0f8cc11d837f39e9ec5b5fad37f3fd571814936728ce4332873573a1115bfe64f&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
@@ -162,5 +167,5 @@
 )
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
-##### ... 持续更新(最新更新于2019/07/24)
+##### ... 持续更新(最新更新于2019/07/25)
 
