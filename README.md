@@ -81,10 +81,11 @@
 - [可能这些是你想要的H5软键盘兼容方案](https://segmentfault.com/a/1190000018959389#articleHeader12)
 - [滚动穿透问题的解决方案](https://juejin.im/post/5c2dc9cce51d45690a254b79)
 - [VUE开发微信H5页面总结](https://juejin.im/post/5c0490ef51882524cb6f5652#heading-0)
-
+- [前端 H5 横屏 独特处理方案详解](https://juejin.im/post/5be4e37ee51d450d0502215e)
 ### Babel
 - [【前端词典】关于 Babel 你必须知道的](https://mp.weixin.qq.com/s?__biz=Mzg5NDEyMzA2NQ==&mid=2247484083&idx=1&sn=4268252b548ad5a425308614e9390513&chksm=c0252fe5f752a6f362b7ddf9036dd2bc0764ed427e1c8e042ef7c822f0ced29a4be9cdaaa00f&mpshare=1&scene=1&srcid=0722nH1NoSl07rYkUHlEE3Gi&key=7865e1e5a7ba115efe8818947150b8d5c7491fc6228a650a91bcc0a4cab895c49fbb9ff681b9823ed4efbb214b898e67ea528f5858d62cad17ea854e3016ecd4124461aecdc90161afd70108c0c8b021&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PWPQgBOm4UzUeMjy6roqmvk6fVPiuY9VoxNoG3wBXcjM7vj0lhks26U3wkrUgBdC)
 - [结合Babel 7.4.0 谈一下Babel-runtime 和 Babel-polyfill](https://juejin.im/post/5d0373a95188251e1b5ebb6c)
+- [babel-handbook](https://github.com/jamiebuilds/babel-handbook)
 
 ### RabbitMQ
 - [rabbitmq教程](https://gtcsq.readthedocs.io/en/latest/openstack/rabbitmq_doc.html#)
@@ -107,6 +108,7 @@
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
 - [html5shiv html5标签被IE识别](https://github.com/aFarkas/html5shiv)
 - [Modernizr 2.3w star+ 检测浏览器功能支持情况的js库,可以检测18项css3功能以及40多项关于h5的功能](https://github.com/Modernizr/Modernizr)
+- [性能优化篇 - Performance（工具 & api）](https://juejin.im/post/5c8fa71d5188252d785f0ea3)
 
 
 ### 个人博客
