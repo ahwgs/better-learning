@@ -19,6 +19,12 @@
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
 - [JavaScript异步编程](https://www.ahwgs.cn/javascriptyibubiancheng.html)
 
+### CSS
+- [CSS Inspiration -- CSS灵感](https://chokcoco.github.io/CSS-Inspiration/#/)
+- [animate.css CSS动画库](https://github.com/daneden/animate.css)
+- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css)
+- [chokcoco CSS3奇思妙想，单标签实现各类图形](https://github.com/chokcoco/magicCss)
+
 ### vue
 - [learnVue-深入学习vue源码](https://github.com/answershuto/learnVue) 5k star
 - [vue-cli3 项目从搭建优化到docker部署](https://juejin.im/post/5c4a6fcd518825469414e062)
@@ -44,6 +50,9 @@
 - [干货！撸一个webpack插件(内含tapable详解+webpack流程)](https://juejin.im/post/5beb8875e51d455e5c4dd83f)
 - [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
 - [搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
+
+###TypeScript
+- [TypeScript中文网](https://www.tslang.cn/docs/handbook/basic-types.html)
 
 ### Flutter
 - [Dart中文社区](http://dart.goodev.org/)
@@ -169,5 +178,5 @@
 )
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
-##### ... 持续更新(最新更新于2019/07/25)
+##### ... 持续更新(最新更新于2019/07/26)
 
