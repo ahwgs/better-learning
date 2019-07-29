@@ -30,6 +30,7 @@
 - [vue-cli3 项目从搭建优化到docker部署](https://juejin.im/post/5c4a6fcd518825469414e062)
 - [手摸手，带你用vue撸后台 系列五(v4.0新版本)](https://juejin.im/post/5c92ff94f265da6128275a85)
 - [vue 路由 按需 keep-alive](https://juejin.im/post/5cdcbae9e51d454759351d84)
+- [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
 
 ### react
 - [译 以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
@@ -40,7 +41,7 @@
 - [React源码解析-react.jokcy.me](https://react.jokcy.me/)
 - [Redux 中文文档](http://cn.redux.js.org/)
 - [!!!React小书](http://huziketang.mangojuice.top/books/react/)
-
+- [如何管理好10万行代码的前端单页面应用](https://juejin.im/post/59cb0d0b5188257e876a2d27)
 ### Electron
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 - [用JS开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
@@ -95,6 +96,7 @@
 - [【前端词典】关于 Babel 你必须知道的](https://mp.weixin.qq.com/s?__biz=Mzg5NDEyMzA2NQ==&mid=2247484083&idx=1&sn=4268252b548ad5a425308614e9390513&chksm=c0252fe5f752a6f362b7ddf9036dd2bc0764ed427e1c8e042ef7c822f0ced29a4be9cdaaa00f&mpshare=1&scene=1&srcid=0722nH1NoSl07rYkUHlEE3Gi&key=7865e1e5a7ba115efe8818947150b8d5c7491fc6228a650a91bcc0a4cab895c49fbb9ff681b9823ed4efbb214b898e67ea528f5858d62cad17ea854e3016ecd4124461aecdc90161afd70108c0c8b021&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PWPQgBOm4UzUeMjy6roqmvk6fVPiuY9VoxNoG3wBXcjM7vj0lhks26U3wkrUgBdC)
 - [结合Babel 7.4.0 谈一下Babel-runtime 和 Babel-polyfill](https://juejin.im/post/5d0373a95188251e1b5ebb6c)
 - [babel-handbook](https://github.com/jamiebuilds/babel-handbook)
+- [傻傻分不清之 —— babel 全家桶](https://vince.xin/2019/06/29/%E5%82%BB%E5%82%BB%E5%88%86%E4%B8%8D%E6%B8%85%E4%B9%8B-%E2%80%94%E2%80%94-babel-%E5%85%A8%E5%AE%B6%E6%A1%B6/)
 
 ### RabbitMQ
 - [rabbitmq教程](https://gtcsq.readthedocs.io/en/latest/openstack/rabbitmq_doc.html#)
@@ -112,6 +114,7 @@
 - [前端一年精选好文，请打包带走](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490208&idx=1&sn=a0c08a9912e16d5e0b12be0c4e83822d&chksm=f951afe3ce2626f52535e32922708a003eb9d572978ea4ce5479ee43385750696cf3c3138f26&mpshare=1&scene=1&srcid=0515aeaqVQbSwPmKibq2XIEt&key=e915f6782fe7b316a9034e62c310296e90b7df8dfd64a9bff5a1557cf57dd95e537e90fa13778d1f280093e249eef7ff4b3eeb523c9d86475ff23b8ff615ecc97ba3735a422b7b3dd568eb6ab0cbdbd7&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [斐波那契数列求和的js方案以及优化](https://segmentfault.com/a/1190000007115162)
 - [图片布局的最全实现方式都在这了！附源码](https://mp.weixin.qq.com/s?__biz=MzU1NDg5MDU3NQ==&mid=2247484089&idx=1&sn=25adf858e315731d49ee295077c24f48&key=adf1da94ffba578c3f48e5be613c774d256405b780acf26428a31733fe1e42c75ef434c60eb5e864f478ae7e57069c8f40c62d068bf9ececa00c58729ece7f2c4118a0a4c7d63eb84f80887220832d39&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PWPQgBOm4UzUeMjy6roqmvk6fVPiuY9VoxNoG3wBXcjM7vj0lhks26U3wkrUgBdC)
+- [领域驱动设计在前端中的应用](https://juejin.im/post/5d3926176fb9a07ef161c719)
 
 ### 浏览器相关
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
@@ -178,5 +181,5 @@
 )
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
-##### ... 持续更新(最新更新于2019/07/26)
+##### ... 持续更新(最新更新于2019/07/29)
 
