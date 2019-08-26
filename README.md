@@ -52,9 +52,10 @@
 - [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
 - [搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
 
-###TypeScript
-- [TypeScript中文网](https://www.tslang.cn/docs/handbook/basic-types.html)
+### TypeScript
 
+- [TypeScript中文网](https://www.tslang.cn/docs/handbook/basic-types.html)
+- [TypeScript入门教程 https://ts.xcatliu.com/](https://ts.xcatliu.com/)
 ### Flutter
 - [Dart中文社区](http://dart.goodev.org/)
 - [Flutter实战教程](https://book.flutterchina.club/)
@@ -155,7 +156,8 @@
 - [代码转优美的图片](https://carbon.now.sh)
 - [矢量图插图网](https://undraw.co/illustrations)
 - [网易云音乐 NodeJS 版 API 100+](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
-
+- [前端面试与进阶指南](https://www.cxymsg.com/guide/)
+- [常用正则](https://juejin.im/post/5d245d4151882555300feb77)
 ### 在线配色方案网站
 - [渐变色配色](https://webgradients.com/)
 - [配色、图片颜色修改、配色提取、logo生成](https://shapefactory.co)
@@ -181,5 +183,5 @@
 )
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
-##### ... 持续更新(最新更新于2019/07/29)
+##### ... 持续更新(最新更新于2019/08/26)
 
