@@ -42,6 +42,7 @@
 - [Redux 中文文档](http://cn.redux.js.org/)
 - [!!!React小书](http://huziketang.mangojuice.top/books/react/)
 - [如何管理好10万行代码的前端单页面应用](https://juejin.im/post/59cb0d0b5188257e876a2d27)
+- [一篇看懂 React Hooks](https://github.com/ascoders/blog/issues/29)
 ### Electron
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 - [用JS开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
@@ -139,6 +140,7 @@
 - [舞动乾坤 Bug | 魔法师百度](https://juejin.im/user/57e737f6c4c971005f6bcd8d)
 - [前端小智](https://github.com/qq449245884/xiaozhi)
 - [恋猫de小郭 移动端开发](https://github.com/CarGuo)
+- [微醺岁月 blog](https://github.com/jawil/blog/issues)
 ### 技术团队
 - [大转转FE](http://zzfed.com/#/list)
 - [大搜车「无线开发中心」团队](https://blog.souche.com/)
@@ -183,5 +185,5 @@
 )
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
-##### ... 持续更新(最新更新于2019/08/26)
+##### ... 持续更新(最新更新于2019/08/28)
 
