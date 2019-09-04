@@ -141,6 +141,7 @@
 - [前端小智](https://github.com/qq449245884/xiaozhi)
 - [恋猫de小郭 移动端开发](https://github.com/CarGuo)
 - [微醺岁月 blog](https://github.com/jawil/blog/issues)
+- [龙恩0707](https://www.cnblogs.com/tugenhua0707/)
 ### 技术团队
 - [大转转FE](http://zzfed.com/#/list)
 - [大搜车「无线开发中心」团队](https://blog.souche.com/)
@@ -175,8 +176,7 @@
 - [选择一个颜色，匹配色彩方案](http://www.colorhexa.com/f84604)
 - [获取网站的配色方案](http://webcolourdata.com/ )
 - [知名画家名作颜色提取](http://www.colorlisa.com/ )
-- [点击上方颜色，自动生成配色方案](http://www.designskilz.com/colors/red 
-)
+- [点击上方颜色，自动生成配色方案](http://www.designskilz.com/colors/red )
 - [点击左侧标签，拖动鼠标差调整自己喜欢的颜色](http://www.colourco.de/)
 - [选择≥2种的颜色，自动生成扁平化配色界面](https://www.materialpalette.com/ )
 - [热点与数据可视化配色](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3 )
@@ -185,5 +185,5 @@
 )
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
-##### ... 持续更新(最新更新于2019/08/28)
+##### ... 持续更新(最新更新于2019/09/04)
 
