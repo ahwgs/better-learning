@@ -89,6 +89,9 @@
 ### 爬虫
 - [这可能是你见过的最全的网络爬虫干货总结](https://juejin.im/post/5bce8201518825773605597d)
 
+### Nginx
+- [Nginx配置参考](https://www.ahwgs.cn/nginxpeizhijilu.html)
+
 ### H5踩坑
 - [可能这些是你想要的H5软键盘兼容方案](https://segmentfault.com/a/1190000018959389#articleHeader12)
 - [滚动穿透问题的解决方案](https://juejin.im/post/5c2dc9cce51d45690a254b79)
@@ -123,7 +126,7 @@
 - [html5shiv html5标签被IE识别](https://github.com/aFarkas/html5shiv)
 - [Modernizr 2.3w star+ 检测浏览器功能支持情况的js库,可以检测18项css3功能以及40多项关于h5的功能](https://github.com/Modernizr/Modernizr)
 - [性能优化篇 - Performance（工具 & api）](https://juejin.im/post/5c8fa71d5188252d785f0ea3)
-
+- [移动端开发的屏幕、图像、字体与布局的兼容适配](https://juejin.im/post/5d70747cf265da03e16897c8)
 
 ### 个人博客
 - [木易杨，哈罗出行高级前端工程师](https://github.com/yygmind/blog/)
@@ -185,5 +188,5 @@
 )
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
-##### ... 持续更新(最新更新于2019/09/04)
+##### ... 持续更新(最新更新于2019/09/17)
 
