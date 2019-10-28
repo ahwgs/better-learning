@@ -79,6 +79,8 @@
 - [总结了17年初到18年初百场前端面试的面试经验(含答案)](https://juejin.im/post/5b44a485e51d4519945fb6b7)
 - [这儿有20道大厂面试题等你查收](https://juejin.im/post/5d124a12f265da1b9163a28d)
 - [一个合格的中级前端工程师必须要掌握的 28 个 JavaScript 技巧](https://juejin.im/post/5cef46226fb9a07eaf2b7516)
+- [剖析一些经典的CSS布局问题，为前端开发+面试保驾护航](https://juejin.im/post/5da282015188257d2a1c9e1d)
+
 ### 移动端开发
 - [mobileTech-移动端开发所需要的一些资源与小技巧](https://github.com/jtyjty99999/mobileTech)
 - [移动端页面开发适配 rem布局原理](https://segmentfault.com/a/1190000007526917)
@@ -184,8 +186,7 @@
 - [选择≥2种的颜色，自动生成扁平化配色界面](https://www.materialpalette.com/ )
 - [热点与数据可视化配色](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3 )
 - [在线调整配色方案](https://www.sessions.edu/color-calculator/)
-- [颜色安全 ](http://colorsafe.co/ 
-)
+- [颜色安全](http://colorsafe.co/)
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
 ##### ... 持续更新(最新更新于2019/09/17)
