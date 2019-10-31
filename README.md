@@ -43,6 +43,8 @@
 - [!!!React小书](http://huziketang.mangojuice.top/books/react/)
 - [如何管理好10万行代码的前端单页面应用](https://juejin.im/post/59cb0d0b5188257e876a2d27)
 - [一篇看懂 React Hooks](https://github.com/ascoders/blog/issues/29)
+- [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.im/post/5dadc6045188255a270a0f85) 
+- [2019年了，整理了N个实用案例帮你快速迁移到React Hooks(收藏慢慢看系列)](https://juejin.im/post/5d594ea5518825041301bbcb)
 ### Electron
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 - [用JS开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
@@ -147,6 +149,7 @@
 - [恋猫de小郭 移动端开发](https://github.com/CarGuo)
 - [微醺岁月 blog](https://github.com/jawil/blog/issues)
 - [龙恩0707](https://www.cnblogs.com/tugenhua0707/)
+- [荒山 专注React、前端工程化、跨平台开发领域](https://juejin.im/user/5762733b2e958a00696163ea)
 ### 技术团队
 - [大转转FE](http://zzfed.com/#/list)
 - [大搜车「无线开发中心」团队](https://blog.souche.com/)
