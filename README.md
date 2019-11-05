@@ -169,6 +169,26 @@
 - [网易云音乐 NodeJS 版 API 100+](https://binaryify.github.io/NeteaseCloudMusicApi/#/)
 - [前端面试与进阶指南](https://www.cxymsg.com/guide/)
 - [常用正则](https://juejin.im/post/5d245d4151882555300feb77)
+
+### 好的开源项目
+- CSS 应该是很多人的痛点。这个仓库总结了一些常用的 CSS 样式，并且包含了一些 CSS 的新属性和一点奇技淫巧 [CSS-Tricks](https://github.com/QiShaoXuan/css_tricks)
+
+
+- 想必大家都想写出优秀的代码，那么如何才是优秀的代码？如何做到写出游戏的代码呢？这时候你需要一些最佳实践来学习:[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+- 框架使用已经基本是大家日常工作离不开的内容了。经常有读者问我，如何快速学习 XX 框架，如何用 XX 框架写好代码，这时候你需要一个优秀的项目来学习借鉴：
+
+    Vue 技术栈：[vue2-elm](https://github.com/bailicangdu/vue2-elm)
+    React 技术栈：[react-tetris](https://github.com/chvin/react-tetris)
+    
+- 单元测试其实也是一个很重要的环节，但是大部分前端工程师应该是不写单元测试的，因此国内市面上相关的资料也很稀少。如果你有单元测试的需求，可以参考：[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
+- 数据结构与算法是每个程序员都应该掌握的一块知识，如果你想学习这块内容，这个仓库绝对不容错过：[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+- 经常会有读者问我如何答好面试环节中面试官提问的：你有什么想问的这个问题。前段时间笔者发现了一个很优秀的仓库来解决这个问题，内容列举了相当多你可以在这个环节中提的问题：[reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+
+- 网上优秀的资料有很多，但是检索到这些内容并不是一个容易的过程，这个仓库整合了相当多程序员该阅读的优秀资料，值得一读：[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visi)
+
 ### 在线配色方案网站
 - [渐变色配色](https://webgradients.com/)
 - [配色、图片颜色修改、配色提取、logo生成](https://shapefactory.co)
@@ -192,5 +212,5 @@
 - [颜色安全](http://colorsafe.co/)
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
-##### ... 持续更新(最新更新于2019/09/17)
+##### ... 持续更新(最新更新于2019/11/05)
 
