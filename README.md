@@ -127,6 +127,7 @@
 - [斐波那契数列求和的js方案以及优化](https://segmentfault.com/a/1190000007115162)
 - [图片布局的最全实现方式都在这了！附源码](https://mp.weixin.qq.com/s?__biz=MzU1NDg5MDU3NQ==&mid=2247484089&idx=1&sn=25adf858e315731d49ee295077c24f48&key=adf1da94ffba578c3f48e5be613c774d256405b780acf26428a31733fe1e42c75ef434c60eb5e864f478ae7e57069c8f40c62d068bf9ececa00c58729ece7f2c4118a0a4c7d63eb84f80887220832d39&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PWPQgBOm4UzUeMjy6roqmvk6fVPiuY9VoxNoG3wBXcjM7vj0lhks26U3wkrUgBdC)
 - [领域驱动设计在前端中的应用](https://juejin.im/post/5d3926176fb9a07ef161c719)
+- [移动 web 最佳实践](https://github.com/mcuking/mobile-web-best-practice)
 
 ### 浏览器相关
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
@@ -135,6 +136,15 @@
 - [性能优化篇 - Performance（工具 & api）](https://juejin.im/post/5c8fa71d5188252d785f0ea3)
 - [移动端开发的屏幕、图像、字体与布局的兼容适配](https://juejin.im/post/5d70747cf265da03e16897c8)
 - [为你重新系统梳理下， Web 体验优化中和图有关的那些事（万字长文）](https://juejin.im/post/5dc7fb87e51d454b4213c934)
+
+### 微前端
+- [微前端实践心得](https://github.com/mcuking/blog/issues/81)
+- [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
+- [微前端在美团外卖的实践](https://juejin.im/post/5e57b6f0f265da57547794c9)
+- [每日优鲜供应链前端团队微前端改造](https://juejin.im/post/5d7f702ce51d4561f777e258)
+- [蚂蚁-乾坤](https://github.com/umijs/qiankun)
+- [用微前端的方式搭建类单页应用](https://tech.meituan.com/2018/09/06/fe-tiny-spa.html)
+- [Bifrost微前端框架及其在美团闪购中的实践](https://tech.meituan.com/2019/12/26/meituan-bifrost.html)
 
 ### 个人博客
 - [木易杨，哈罗出行高级前端工程师](https://github.com/yygmind/blog/)
@@ -216,5 +226,5 @@
 - [颜色安全](http://colorsafe.co/)
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
-##### ... 持续更新(最新更新于2019/12/30)
+##### ... 持续更新(最新更新于2020/03/10)
 
