@@ -3,6 +3,7 @@
 
     原文:https://www.ahwgs.cn/youxiuwenzhangshoucang.html
     github:https://github.com/ahwgs/better-learning
+    
 
 ### 协作规范
 - [中文技术文档协作规范](https://github.com/ruanyf/document-style-guide)(阮一峰)
@@ -226,5 +227,13 @@
 - [颜色安全](http://colorsafe.co/)
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
-##### ... 持续更新(最新更新于2020/03/10)
 
+
+### 关于
+
+最新更新时间(2020/03/19)
+
+- 新增了静态资源页面 
+使用`node+webhook`构建
+- [http://better-learning.ahwgs.cn/](http://better-learning.ahwgs.cn/)
+- [https://github.com/ahwgs/post-auto-update](https://github.com/ahwgs/post-auto-update)
