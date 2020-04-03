@@ -10,6 +10,12 @@
 - [Javascript编程风格](http://www.ruanyifeng.com/blog/2012/04/javascript_programming_style.html)
 - [凹凸实验室前端代码规范](https://guide.aotu.io/docs/)
 - [vuejs风格指南](https://cn.vuejs.org/v2/style-guide/)
+
+### 数据结构与算法
+- [用JavaScript实现的算法和数据结构](http://conardli.top/docs/)
+- [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
+- [YaxeZhang/Just-Code](https://github.com/YaxeZhang/Just-Code)
+
 ### Event Loop
 - [这一次，彻底弄懂 JavaScript - 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 - [一次弄懂Event Loop（彻底解决此类面试问题)](https://juejin.im/post/5c3d8956e51d4511dc72c200)
@@ -44,17 +50,30 @@
 - [!!!React小书](http://huziketang.mangojuice.top/books/react/)
 - [如何管理好10万行代码的前端单页面应用](https://juejin.im/post/59cb0d0b5188257e876a2d27)
 - [一篇看懂 React Hooks](https://github.com/ascoders/blog/issues/29)
-- [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.im/post/5dadc6045188255a270a0f85) 
+- [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.im/post/5dadc6045188255a270a0f85)
 - [2019年了，整理了N个实用案例帮你快速迁移到React Hooks(收藏慢慢看系列)](https://juejin.im/post/5d594ea5518825041301bbcb)
+
+
+
 ### Electron
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 - [用JS开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
 
-### webpack
+### webpack与前端工程化
 - [webpack 插件总结归类](https://juejin.im/post/5bd2d2315188252734475575)
 - [干货！撸一个webpack插件(内含tapable详解+webpack流程)](https://juejin.im/post/5beb8875e51d455e5c4dd83f)
 - [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
 - [搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
+- [玩转webpack](https://time.geekbang.org/course/intro/100028901)
+- [那些花儿，从零构建Vue工程(webpack4 Eslint git hooks...)](https://juejin.im/post/5c4a69a1f265da61163a1e5f)
+- [掘金站内 webpack 优秀文章汇总](https://juejin.im/post/5dbe64a3e51d455c042006ed)
+- [Webpack 4 配置最佳实践](https://juejin.im/post/5b304f1f51882574c72f19b0)
+- [webpack4 的30个步骤打造优化到极致的 react 开发环境，如约而至](https://juejin.im/post/5cfe4b13f265da1bb13f26a8)
+- [从零实现webpack热更新HMR](https://juejin.im/post/5df36ffd518825124d6c1765)
+- [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
+- [细说 webpack 之流程篇](https://fed.taobao.org/blog/2016/09/10/webpack-flow/)
+- [fe-workflow](https://github.com/luoxue-victor/fe-workflow) 
+
 
 ### TypeScript
 
@@ -165,6 +184,7 @@
 - [微醺岁月 blog](https://github.com/jawil/blog/issues)
 - [龙恩0707](https://www.cnblogs.com/tugenhua0707/)
 - [荒山 专注React、前端工程化、跨平台开发领域](https://juejin.im/user/5762733b2e958a00696163ea)
+- [技术胖-专注于前端开发与免费视频](http://jspang.com/)
 ### 技术团队
 - [大转转FE](http://zzfed.com/#/list)
 - [大搜车「无线开发中心」团队](https://blog.souche.com/)
@@ -172,7 +192,7 @@
 - [滴滴技术](https://juejin.im/user/5c874e07e51d4548b40ac7e1)
 - [酷家乐平台前端博客](https://webfe.kujiale.com/)
 - [京东凹凸实验室](https://aotu.io/index.html)
-- [技术胖-专注于前端开发与免费视频](http://jspang.com/)
+- [淘系前端团队（FED）](https://fed.taobao.org/)
 ### 优秀的网站资源
 - [You-need-to-know-css 常用CSS属性在线演示](https://lhammer.cn/You-need-to-know-css/#/)
 - [手绘风格CSS框架](https://www.getpapercss.com/)
@@ -185,24 +205,6 @@
 - [前端面试与进阶指南](https://www.cxymsg.com/guide/)
 - [常用正则](https://juejin.im/post/5d245d4151882555300feb77)
 
-### 好的开源项目
-- CSS 应该是很多人的痛点。这个仓库总结了一些常用的 CSS 样式，并且包含了一些 CSS 的新属性和一点奇技淫巧 [CSS-Tricks](https://github.com/QiShaoXuan/css_tricks)
-
-
-- 想必大家都想写出优秀的代码，那么如何才是优秀的代码？如何做到写出游戏的代码呢？这时候你需要一些最佳实践来学习:[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-
-- 框架使用已经基本是大家日常工作离不开的内容了。经常有读者问我，如何快速学习 XX 框架，如何用 XX 框架写好代码，这时候你需要一个优秀的项目来学习借鉴：
-
-    Vue 技术栈：[vue2-elm](https://github.com/bailicangdu/vue2-elm)
-    React 技术栈：[react-tetris](https://github.com/chvin/react-tetris)
-    
-- 单元测试其实也是一个很重要的环节，但是大部分前端工程师应该是不写单元测试的，因此国内市面上相关的资料也很稀少。如果你有单元测试的需求，可以参考：[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
-
-- 数据结构与算法是每个程序员都应该掌握的一块知识，如果你想学习这块内容，这个仓库绝对不容错过：[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-
-- 经常会有读者问我如何答好面试环节中面试官提问的：你有什么想问的这个问题。前段时间笔者发现了一个很优秀的仓库来解决这个问题，内容列举了相当多你可以在这个环节中提的问题：[reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
-
-- 网上优秀的资料有很多，但是检索到这些内容并不是一个容易的过程，这个仓库整合了相当多程序员该阅读的优秀资料，值得一读：[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visi)
 
 ### 在线配色方案网站
 - [渐变色配色](https://webgradients.com/)
