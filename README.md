@@ -38,6 +38,7 @@
 - [手摸手，带你用vue撸后台 系列五(v4.0新版本)](https://juejin.im/post/5c92ff94f265da6128275a85)
 - [vue 路由 按需 keep-alive](https://juejin.im/post/5cdcbae9e51d454759351d84)
 - [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
+- [vue-cli4-config](https://github.com/staven630/vue-cli4-config)
 
 ### react
 - [译 以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
@@ -81,7 +82,6 @@
 - [TypeScript入门教程 https://ts.xcatliu.com/](https://ts.xcatliu.com/)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
 - [TypeScript and React](https://fettblog.eu/typescript-react/)
-
 ### Flutter
 - [Dart中文社区](http://dart.goodev.org/)
 - [Flutter实战教程](https://book.flutterchina.club/)
@@ -125,6 +125,7 @@
 - [滚动穿透问题的解决方案](https://juejin.im/post/5c2dc9cce51d45690a254b79)
 - [VUE开发微信H5页面总结](https://juejin.im/post/5c0490ef51882524cb6f5652#heading-0)
 - [前端 H5 横屏 独特处理方案详解](https://juejin.im/post/5be4e37ee51d450d0502215e)
+
 ### Babel
 - [【前端词典】关于 Babel 你必须知道的](https://mp.weixin.qq.com/s?__biz=Mzg5NDEyMzA2NQ==&mid=2247484083&idx=1&sn=4268252b548ad5a425308614e9390513&chksm=c0252fe5f752a6f362b7ddf9036dd2bc0764ed427e1c8e042ef7c822f0ced29a4be9cdaaa00f&mpshare=1&scene=1&srcid=0722nH1NoSl07rYkUHlEE3Gi&key=7865e1e5a7ba115efe8818947150b8d5c7491fc6228a650a91bcc0a4cab895c49fbb9ff681b9823ed4efbb214b898e67ea528f5858d62cad17ea854e3016ecd4124461aecdc90161afd70108c0c8b021&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PWPQgBOm4UzUeMjy6roqmvk6fVPiuY9VoxNoG3wBXcjM7vj0lhks26U3wkrUgBdC)
 - [结合Babel 7.4.0 谈一下Babel-runtime 和 Babel-polyfill](https://juejin.im/post/5d0373a95188251e1b5ebb6c)
@@ -194,6 +195,7 @@
 - [酷家乐平台前端博客](https://webfe.kujiale.com/)
 - [京东凹凸实验室](https://aotu.io/index.html)
 - [淘系前端团队（FED）](https://fed.taobao.org/)
+- [百度Web前端团队](http://fex.baidu.com/)
 ### 优秀的网站资源
 - [You-need-to-know-css 常用CSS属性在线演示](https://lhammer.cn/You-need-to-know-css/#/)
 - [手绘风格CSS框架](https://www.getpapercss.com/)
@@ -234,7 +236,7 @@
 
 ### 关于
 
-最新更新时间(2020/03/19)
+最新更新时间(2020/04/08)
 
 - 新增了静态资源页面 
 使用`node+webhook`构建
