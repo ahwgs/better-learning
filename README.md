@@ -167,6 +167,7 @@
 - [蚂蚁-乾坤](https://github.com/umijs/qiankun)
 - [用微前端的方式搭建类单页应用](https://tech.meituan.com/2018/09/06/fe-tiny-spa.html)
 - [Bifrost微前端框架及其在美团闪购中的实践](https://tech.meituan.com/2019/12/26/meituan-bifrost.html)
+- [ 什么是微前端](https://livebook.manning.com/book/micro-frontends-in-action/chapter-1/v-4/)
 
 ### 个人博客
 - [木易杨，哈罗出行高级前端工程师](https://github.com/yygmind/blog/)
@@ -237,7 +238,7 @@
 
 ### 关于
 
-最新更新时间(2020/05/08)
+最新更新时间(2020/05/09)
 
 - 新增了静态资源页面 
 使用`node+webhook`构建
