@@ -77,7 +77,6 @@
 
 
 ### TypeScript
-
 - [TypeScript中文网](https://www.tslang.cn/docs/handbook/basic-types.html)
 - [TypeScript入门教程 https://ts.xcatliu.com/](https://ts.xcatliu.com/)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
@@ -89,6 +88,7 @@
 - [Flutter中文网](https://flutterchina.club/)
 - [6.9k star Flutter項目 GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter)
 - [Flutter完整开发实战详解](https://guoshuyu.cn/home/wx/)
+
 ### 其他
 - [这应该是你见过的最全前端下载总结](https://juejin.im/post/5c3c4b3551882524a5420119)
 - [WebSocket是时候展现你优秀的一面了](https://juejin.im/post/5bc7f6b96fb9a05d3447eef8)
@@ -199,6 +199,7 @@
 - [京东凹凸实验室](https://aotu.io/index.html)
 - [淘系前端团队（FED）](https://fed.taobao.org/)
 - [百度Web前端团队](http://fex.baidu.com/)
+
 ### 优秀的网站资源
 - [You-need-to-know-css 常用CSS属性在线演示](https://lhammer.cn/You-need-to-know-css/#/)
 - [手绘风格CSS框架](https://www.getpapercss.com/)
@@ -238,7 +239,6 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-
 最新更新时间(2020/05/11)
 
 - 新增了静态资源页面 
