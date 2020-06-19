@@ -127,6 +127,7 @@
 - [滚动穿透问题的解决方案](https://juejin.im/post/5c2dc9cce51d45690a254b79)
 - [VUE开发微信H5页面总结](https://juejin.im/post/5c0490ef51882524cb6f5652#heading-0)
 - [前端 H5 横屏 独特处理方案详解](https://juejin.im/post/5be4e37ee51d450d0502215e)
+- [H5常见问题及解决方法](https://juejin.im/post/5e93c98fe51d4546d32bd506)
 
 ### Babel
 - [【前端词典】关于 Babel 你必须知道的](https://mp.weixin.qq.com/s?__biz=Mzg5NDEyMzA2NQ==&mid=2247484083&idx=1&sn=4268252b548ad5a425308614e9390513&chksm=c0252fe5f752a6f362b7ddf9036dd2bc0764ed427e1c8e042ef7c822f0ced29a4be9cdaaa00f&mpshare=1&scene=1&srcid=0722nH1NoSl07rYkUHlEE3Gi&key=7865e1e5a7ba115efe8818947150b8d5c7491fc6228a650a91bcc0a4cab895c49fbb9ff681b9823ed4efbb214b898e67ea528f5858d62cad17ea854e3016ecd4124461aecdc90161afd70108c0c8b021&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PWPQgBOm4UzUeMjy6roqmvk6fVPiuY9VoxNoG3wBXcjM7vj0lhks26U3wkrUgBdC)
@@ -152,6 +153,7 @@
 - [图片布局的最全实现方式都在这了！附源码](https://mp.weixin.qq.com/s?__biz=MzU1NDg5MDU3NQ==&mid=2247484089&idx=1&sn=25adf858e315731d49ee295077c24f48&key=adf1da94ffba578c3f48e5be613c774d256405b780acf26428a31733fe1e42c75ef434c60eb5e864f478ae7e57069c8f40c62d068bf9ececa00c58729ece7f2c4118a0a4c7d63eb84f80887220832d39&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PWPQgBOm4UzUeMjy6roqmvk6fVPiuY9VoxNoG3wBXcjM7vj0lhks26U3wkrUgBdC)
 - [领域驱动设计在前端中的应用](https://juejin.im/post/5d3926176fb9a07ef161c719)
 - [移动 web 最佳实践](https://github.com/mcuking/mobile-web-best-practice)
+- [现代 JavaScript 教程](https://zh.javascript.info/)
 
 ### 浏览器相关
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
