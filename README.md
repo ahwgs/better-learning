@@ -89,16 +89,6 @@
 - [6.9k star Flutter項目 GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter)
 - [Flutter完整开发实战详解](https://guoshuyu.cn/home/wx/)
 
-### 其他
-- [这应该是你见过的最全前端下载总结](https://juejin.im/post/5c3c4b3551882524a5420119)
-- [WebSocket是时候展现你优秀的一面了](https://juejin.im/post/5bc7f6b96fb9a05d3447eef8)
-- [Array.prototype.reduce 实用指南](https://juejin.im/post/5bab8a9c6fb9a05d0e2e6bf0)
-- [JavaScript正则表达式备忘单](https://juejin.im/post/5c7496fdf265da2dda6957d2?utm_source=gold_browser_extension#comment)
-- [一种自动化生成骨架屏的方案](https://github.com/Jocs/jocs.github.io/issues/22)
-- [vue-content-loader](https://github.com/egoist/vue-content-loader)
-- [awesome-javascript sorrycc的js资源整合](https://github.com/sorrycc/awesome-javascript)
-- [在线正则表达式](https://regex101.com/)
-
 ### 面试
 - [面试篇寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
 - [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
@@ -155,6 +145,14 @@
 - [领域驱动设计在前端中的应用](https://juejin.im/post/5d3926176fb9a07ef161c719)
 - [移动 web 最佳实践](https://github.com/mcuking/mobile-web-best-practice)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
+- [这应该是你见过的最全前端下载总结](https://juejin.im/post/5c3c4b3551882524a5420119)
+- [WebSocket是时候展现你优秀的一面了](https://juejin.im/post/5bc7f6b96fb9a05d3447eef8)
+- [Array.prototype.reduce 实用指南](https://juejin.im/post/5bab8a9c6fb9a05d0e2e6bf0)
+- [JavaScript正则表达式备忘单](https://juejin.im/post/5c7496fdf265da2dda6957d2?utm_source=gold_browser_extension#comment)
+- [一种自动化生成骨架屏的方案](https://github.com/Jocs/jocs.github.io/issues/22)
+- [vue-content-loader](https://github.com/egoist/vue-content-loader)
+- [awesome-javascript sorrycc的js资源整合](https://github.com/sorrycc/awesome-javascript)
+- [在线正则表达式](https://regex101.com/)
 
 ### 浏览器相关
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
@@ -204,7 +202,7 @@
 - [淘系前端团队（FED）](https://fed.taobao.org/)
 - [百度Web前端团队](http://fex.baidu.com/)
 
-### 优秀的网站资源
+### 工具类
 - [You-need-to-know-css 常用CSS属性在线演示](https://lhammer.cn/You-need-to-know-css/#/)
 - [手绘风格CSS框架](https://www.getpapercss.com/)
 - [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh/blob/master/README.md)
@@ -216,7 +214,7 @@
 - [前端面试与进阶指南](https://www.cxymsg.com/guide/)
 - [常用正则](https://juejin.im/post/5d245d4151882555300feb77)
 - [processon在线流程图](https://www.processon.com/)
-
+- [Markdown在线简历排版](https://resume.mdnice.com/)
 
 ### 在线配色方案网站
 - [渐变色配色](https://webgradients.com/)
