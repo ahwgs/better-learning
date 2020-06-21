@@ -15,12 +15,13 @@
 - [用JavaScript实现的算法和数据结构](http://conardli.top/docs/)
 - [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
 - [YaxeZhang/Just-Code](https://github.com/YaxeZhang/Just-Code)
+- [LeetCode 算法题刷题心得（JavaScript）](https://www.jianshu.com/p/8876704ea9c8)
 
 ### Event Loop
 - [这一次，彻底弄懂 JavaScript - 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 - [一次弄懂Event Loop（彻底解决此类面试问题)](https://juejin.im/post/5c3d8956e51d4511dc72c200)
 - [浏览器与Node的事件循环(Event Loop)有何区别?](https://juejin.im/post/5c337ae06fb9a049bc4cd218)
-- [笔试题——JavaScript事件循环机制（event loop、macrotask、microtask](https://juejin.im/post/5bac87b6f265da0a906f78d8)
+- [笔试题——JavaScript事件循环机制（event loop、macrotask、microtask）](https://juejin.im/post/5bac87b6f265da0a906f78d8)
 
 ### 异步编程
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
@@ -31,8 +32,9 @@
 - [animate.css CSS动画库](https://github.com/daneden/animate.css)
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css)
 - [chokcoco CSS3奇思妙想，单标签实现各类图形](https://github.com/chokcoco/magicCss)
+- [Web图片资源的加载与渲染时机](https://segmentfault.com/a/1190000010032501)
 
-### vue
+### Vue
 - [learnVue-深入学习vue源码](https://github.com/answershuto/learnVue) 5k star
 - [vue-cli3 项目从搭建优化到docker部署](https://juejin.im/post/5c4a6fcd518825469414e062)
 - [手摸手，带你用vue撸后台 系列五(v4.0新版本)](https://juejin.im/post/5c92ff94f265da6128275a85)
@@ -40,7 +42,7 @@
 - [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
 - [vue-cli4-config](https://github.com/staven630/vue-cli4-config)
 
-### react
+### React
 - [译 以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
 - [扔掉Create React App，打造你自己的React生成工具！](https://mp.weixin.qq.com/s/76007EbaArO8tp2Lzb6dVA)
 - [知乎-虹晨-你真的理解setState吗？](https://zhuanlan.zhihu.com/p/39512941)
@@ -60,7 +62,7 @@
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 - [用JS开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
 
-### webpack与前端工程化
+### Webpack与前端工程化
 - [webpack 插件总结归类](https://juejin.im/post/5bd2d2315188252734475575)
 - [干货！撸一个webpack插件(内含tapable详解+webpack流程)](https://juejin.im/post/5beb8875e51d455e5c4dd83f)
 - [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
@@ -104,7 +106,7 @@
 - [mobileTech-移动端开发所需要的一些资源与小技巧](https://github.com/jtyjty99999/mobileTech)
 - [移动端页面开发适配 rem布局原理](https://segmentfault.com/a/1190000007526917)
 
-### nodejs 
+### Nodejs 
 - [awesome-nodejs nodejs资源整合 3w star+](https://github.com/sindresorhus/awesome-nodejs)
 
 ### 爬虫
