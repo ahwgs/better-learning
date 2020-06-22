@@ -16,6 +16,7 @@
 - [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
 - [YaxeZhang/Just-Code](https://github.com/YaxeZhang/Just-Code)
 - [LeetCode 算法题刷题心得（JavaScript）](https://www.jianshu.com/p/8876704ea9c8)
+- [doocs/leetcode](https://github.com/doocs/leetcode)
 
 ### Event Loop
 - [这一次，彻底弄懂 JavaScript - 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
@@ -155,6 +156,7 @@
 - [vue-content-loader](https://github.com/egoist/vue-content-loader)
 - [awesome-javascript sorrycc的js资源整合](https://github.com/sorrycc/awesome-javascript)
 - [在线正则表达式](https://regex101.com/)
+- [值得一看的技术类书籍列表](https://github.com/doocs/technical-books) 
 
 ### 浏览器相关
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
@@ -203,6 +205,7 @@
 - [京东凹凸实验室](https://aotu.io/index.html)
 - [淘系前端团队（FED）](https://fed.taobao.org/)
 - [百度Web前端团队](http://fex.baidu.com/)
+- [Doocs 专注开发知识分享](https://doocs.github.io/#/README_CN)
 
 ### 工具类
 - [You-need-to-know-css 常用CSS属性在线演示](https://lhammer.cn/You-need-to-know-css/#/)
@@ -243,7 +246,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/06/21)
+最新更新时间(2020/06/22)
 
 - 新增了静态资源页面 
 使用`node+webhook`构建
