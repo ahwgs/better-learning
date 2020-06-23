@@ -137,8 +137,6 @@
 ### 其他
 - [前端学习书籍](https://github.com/threerocks/studyFiles/tree/master/js)
 - [从 IIFE 聊到 Babel 带你深入了解前端模块化发展体系](https://mp.weixin.qq.com/s?__biz=MzIyNTU1NjQ3MQ==&mid=2247483698&idx=1&sn=05dffe94a50c058c123408530fd80e50&chksm=e87ca3aadf0b2abcc7dadf59c237ccf1f35138a0f80b19ce91b15768f9bb96258dc2e661aae7&mpshare=1&scene=1&srcid=05158eVLfaRLuXOMAfs3TKtx&key=e915f6782fe7b316e85381796db7d8130e045de195be2d1706b2b1321b299cb532d9ce56ee4301ddd43e7699182a8ed0f8cc11d837f39e9ec5b5fad37f3fd571814936728ce4332873573a1115bfe64f&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
-- [九种跨域方式实现原理（完整版）](https://mp.weixin.qq.com/s?__biz=Mzg5ODA5NTM1Mw==&mid=2247483798&idx=1&sn=6ff8502e81f0c88adb3d5c5de8cc91f9&chksm=c0668000f7110916f84e195edacacb276ff714fdfb75cc35c6dbf1a62d9531ff0913b8cae722&mpshare=1&scene=1&srcid=0515RdAZ9iibE9UWEuLyxayy&key=5af5195f105422aab90370e50e460fea70959bf7ec175e8c55f0874a88b38a8237c01d84f2721cf0fc5ca8134ab85f9383ffe99fb7102c98663fe672fee64430ac00bcbcb7924191facd73f5c919634d&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
-- [Web 工程师需要掌握的 38 种 SEO 技巧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490482&idx=2&sn=688aef06f7a8d6ce0a7b79ff5d6914a5&chksm=f951aef1ce2627e74673ee49591866c123a3b35da87323ac31a21ff04ca0ee9bf15dca601329&mpshare=1&scene=1&srcid=05158zruy5BCEIrX1aSzlGw6&key=5af5195f105422aa8f00ac2a500933ae3d33fa938c9d11491c56522759933c542773f882566b05fe8f968f48685fd307f7e3821e78180b67bd6cc03873d81fa1428ee9c60d3622ee69300c25cff3516d&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [如何通俗易懂地解释React生命周期方法？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490405&idx=1&sn=7c017a93752b7b89873261fa2862833d&chksm=f951ae26ce2627302b724932a2725710a408f168203f7fb7b3db029c5bd81610667c3929c5ba&mpshare=1&scene=1&srcid=0515FjY6VVJ23ArTJovi2RvV&key=5af5195f105422aac9840e7fef5542f9fbd7e8e440ecabc00afec58695b1073bff5b60d0baeebcd75d0ed1a6cf5494e602e9bf8b72c9d027dc05d8c2e564c9c6d8345d1eb011f5fc1ac33ced92d4ba4a&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [扔掉Create React App，打造你自己的React生成工具！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490327&idx=1&sn=6a5ca6600e0212bab88125f16d545585&chksm=f951ae54ce262742826d87a78e152faabcfd7acbfe2e14c2433bf3038048d7919196b24dec80&mpshare=1&scene=1&srcid=0515W4QiCxUpmJIEbWva0TaY&key=5af5195f105422aaac34a017898055a381199b21cf88e5d498cd8e4da799e07004df94e9143d940c19f87b254561d3f3c01afa1f1f8dd0c84ec0ef62ae4d437936be314de19f1670c8a6fffc095f3a6d&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [Vuex快速使用](https://mp.weixin.qq.com/s?__biz=MzU4MTQ2NDQyOQ==&mid=2247483794&idx=1&sn=a9628f3453beed0781aae30ea6255b94&chksm=fd467990ca31f0861a4a03866e5f7bfd827b3e844880964ce5c29c556a4e7b635b3dcbe27cc4&mpshare=1&scene=1&srcid=0515sT9CWEcfQ3OU5Mti2Lzx&key=f85e7af70d127b0bf7df51e39bb41ecd1a5146ca92c15bfcfdea02462a0ac7bcde2396a82681c8dc0f2964f13076e0c21af364a9eb1ed4de44a0b2bdb3eb0f051037fd724f8aa0fc08c14e5d78b7c6b2&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
@@ -152,7 +150,6 @@
 - [WebSocket是时候展现你优秀的一面了](https://juejin.im/post/5bc7f6b96fb9a05d3447eef8)
 - [Array.prototype.reduce 实用指南](https://juejin.im/post/5bab8a9c6fb9a05d0e2e6bf0)
 - [JavaScript正则表达式备忘单](https://juejin.im/post/5c7496fdf265da2dda6957d2?utm_source=gold_browser_extension#comment)
-- [一种自动化生成骨架屏的方案](https://github.com/Jocs/jocs.github.io/issues/22)
 - [vue-content-loader](https://github.com/egoist/vue-content-loader)
 - [awesome-javascript sorrycc的js资源整合](https://github.com/sorrycc/awesome-javascript)
 - [在线正则表达式](https://regex101.com/)
@@ -175,6 +172,14 @@
 - [用微前端的方式搭建类单页应用](https://tech.meituan.com/2018/09/06/fe-tiny-spa.html)
 - [Bifrost微前端框架及其在美团闪购中的实践](https://tech.meituan.com/2019/12/26/meituan-bifrost.html)
 - [ 什么是微前端](https://livebook.manning.com/book/micro-frontends-in-action/chapter-1/v-4/)
+
+### 常见需求
+- [一种自动化生成骨架屏的方案](https://github.com/Jocs/jocs.github.io/issues/22)
+- [Web 工程师需要掌握的 38 种 SEO 技巧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490482&idx=2&sn=688aef06f7a8d6ce0a7b79ff5d6914a5&chksm=f951aef1ce2627e74673ee49591866c123a3b35da87323ac31a21ff04ca0ee9bf15dca601329&mpshare=1&scene=1&srcid=05158zruy5BCEIrX1aSzlGw6&key=5af5195f105422aa8f00ac2a500933ae3d33fa938c9d11491c56522759933c542773f882566b05fe8f968f48685fd307f7e3821e78180b67bd6cc03873d81fa1428ee9c60d3622ee69300c25cff3516d&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
+- [九种跨域方式实现原理（完整版）](https://mp.weixin.qq.com/s?__biz=Mzg5ODA5NTM1Mw==&mid=2247483798&idx=1&sn=6ff8502e81f0c88adb3d5c5de8cc91f9&chksm=c0668000f7110916f84e195edacacb276ff714fdfb75cc35c6dbf1a62d9531ff0913b8cae722&mpshare=1&scene=1&srcid=0515RdAZ9iibE9UWEuLyxayy&key=5af5195f105422aab90370e50e460fea70959bf7ec175e8c55f0874a88b38a8237c01d84f2721cf0fc5ca8134ab85f9383ffe99fb7102c98663fe672fee64430ac00bcbcb7924191facd73f5c919634d&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
+- [前端换肤的N种方案](https://juejin.im/post/5e92ad7a518825736c5b91cd)
+- [nodejs使用redis模块并实现图形验证码功能](https://www.ahwgs.cn/redis-and-img-captcha.html)
+- [终端代理记录](https://www.ahwgs.cn/proxy-console.html)
 
 ### 个人博客
 - [木易杨，哈罗出行高级前端工程师](https://github.com/yygmind/blog/)
@@ -246,7 +251,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/06/22)
+最新更新时间(2020/06/23)
 
 - 新增了静态资源页面 
 使用`node+webhook`构建
