@@ -42,6 +42,7 @@
 - [vue 路由 按需 keep-alive](https://juejin.im/post/5cdcbae9e51d454759351d84)
 - [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
 - [vue-cli4-config](https://github.com/staven630/vue-cli4-config)
+- [VUE优秀UI组件库合集](https://shimo.im/doc/LkpdnWxM1j40BDJj/)
 
 ### React
 - [译 以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
