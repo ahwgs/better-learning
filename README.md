@@ -43,6 +43,7 @@
 - [浅谈使用 Vue 构建前端 10w+ 代码量的单页面应用开发底层](https://juejin.im/post/5b29c3bde51d45588d4d7110)
 - [vue-cli4-config](https://github.com/staven630/vue-cli4-config)
 - [VUE优秀UI组件库合集](https://shimo.im/doc/LkpdnWxM1j40BDJj/)
+- [实战技巧，Vue原来还可以这样写](https://juejin.im/post/5eef7799f265da02cd3b82fe)
 
 ### React
 - [译 以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
@@ -252,7 +253,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/06/23)
+最新更新时间(2020/06/24)
 
 - 新增了静态资源页面 
 使用`node+webhook`构建
