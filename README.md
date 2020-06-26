@@ -156,6 +156,7 @@
 - [awesome-javascript sorrycc的js资源整合](https://github.com/sorrycc/awesome-javascript)
 - [在线正则表达式](https://regex101.com/)
 - [值得一看的技术类书籍列表](https://github.com/doocs/technical-books) 
+- [可能是最详细的React组件库搭建总结](https://juejin.im/post/5ebcf12df265da7bc55df460)
 
 ### 浏览器相关
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
@@ -253,7 +254,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/06/24)
+最新更新时间(2020/06/26)
 
 - 新增了静态资源页面 
 使用`node+webhook`构建
