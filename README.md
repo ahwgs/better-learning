@@ -228,6 +228,7 @@
 - [常用正则](https://juejin.im/post/5d245d4151882555300feb77)
 - [processon在线流程图](https://www.processon.com/)
 - [Markdown在线简历排版](https://resume.mdnice.com/)
+- [组件库文档解决方案](https://github.com/umijs/dumi)
 
 ### 在线配色方案网站
 - [渐变色配色](https://webgradients.com/)
@@ -254,7 +255,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/06/26)
+最新更新时间(2020/06/27)
 
 - 新增了静态资源页面 
 使用`node+webhook`构建
