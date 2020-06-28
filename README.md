@@ -1,8 +1,8 @@
 # better-learning
 整理收藏一些优秀的文章及大佬博客留着慢慢学习
 
-    原文:https://www.ahwgs.cn/youxiuwenzhangshoucang.html
-    github:https://github.com/ahwgs/better-learning
+- 原文: [https://www.ahwgs.cn/youxiuwenzhangshoucang.html](https://www.ahwgs.cn/youxiuwenzhangshoucang.html)
+- github: [https://github.com/ahwgs/better-learning](https://github.com/ahwgs/better-learning)
     
 
 ### 协作规范
@@ -183,6 +183,7 @@
 - [前端换肤的N种方案](https://juejin.im/post/5e92ad7a518825736c5b91cd)
 - [nodejs使用redis模块并实现图形验证码功能](https://www.ahwgs.cn/redis-and-img-captcha.html)
 - [终端代理记录](https://www.ahwgs.cn/proxy-console.html)
+- [H5 直播的疯狂点赞动画是如何实现的](https://juejin.im/post/5e947b8f6fb9a03c957ffd1a)
 
 ### 个人博客
 - [木易杨，哈罗出行高级前端工程师](https://github.com/yygmind/blog/)
@@ -255,7 +256,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/06/27)
+最新更新时间(2020/06/28)
 
 - 新增了静态资源页面 
 使用`node+webhook`构建
