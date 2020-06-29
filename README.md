@@ -157,6 +157,9 @@
 - [在线正则表达式](https://regex101.com/)
 - [值得一看的技术类书籍列表](https://github.com/doocs/technical-books) 
 - [可能是最详细的React组件库搭建总结](https://juejin.im/post/5ebcf12df265da7bc55df460)
+- [ZooTeam 拍了拍你，来看看如何设计动态化表单](https://juejin.im/post/5ef87b0ff265da22c757250e)
+- [动态表单解决方案 formily](https://github.com/alibaba/formily)
+- [动态表单解决方案 form-render](https://github.com/alibaba/form-render)
 
 ### 浏览器相关
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
@@ -230,6 +233,7 @@
 - [processon在线流程图](https://www.processon.com/)
 - [Markdown在线简历排版](https://resume.mdnice.com/)
 - [组件库文档解决方案](https://github.com/umijs/dumi)
+- [markdown在线转思维导图](https://markmap.js.org/)
 
 ### 在线配色方案网站
 - [渐变色配色](https://webgradients.com/)
@@ -256,7 +260,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/06/28)
+最新更新时间(2020/06/29)
 
 - 新增了静态资源页面 
 使用`node+webhook`构建
