@@ -27,6 +27,7 @@
 ### 异步编程
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
 - [JavaScript异步编程](https://www.ahwgs.cn/javascriptyibubiancheng.html)
+- [9k字 | Promise/async/Generator实现原理解析](https://juejin.im/post/5e3b9ae26fb9a07ca714a5cc)
 
 ### CSS
 - [CSS Inspiration -- CSS灵感](https://chokcoco.github.io/CSS-Inspiration/#/)
