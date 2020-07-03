@@ -236,6 +236,7 @@
 - [Markdown在线简历排版](https://resume.mdnice.com/)
 - [组件库文档解决方案](https://github.com/umijs/dumi)
 - [markdown在线转思维导图](https://markmap.js.org/)
+- [logoly logo生成器](https://www.logoly.pro/#/)
 
 ### 在线配色方案网站
 - [渐变色配色](https://webgradients.com/)
@@ -262,7 +263,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/07/01)
+最新更新时间(2020/07/03)
 
 - 新增了静态资源页面 
 使用`node+webhook`构建
