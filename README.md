@@ -196,6 +196,7 @@
 - [字节跳动面试官：请你实现一个大文件上传和断点续传](https://juejin.im/post/5dff8a26e51d4558105420ed)
 - [字节跳动面试官，我也实现了大文件上传和断点续传](https://juejin.im/post/5e367f6951882520ea398ef6)
 - [React SSR方案](https://nextjs.frontendx.cn/)
+- [Element UI表单设计及代码生成器](https://github.com/JakHuang/form-generator)
 
 ### 个人博客
 - [木易杨，哈罗出行高级前端工程师](https://github.com/yygmind/blog/)
@@ -270,7 +271,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/07/14)
+最新更新时间(2020/07/16)
 
 
 - 新增了静态资源页面 
