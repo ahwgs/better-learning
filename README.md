@@ -198,6 +198,7 @@
 - [字节跳动面试官，我也实现了大文件上传和断点续传](https://juejin.im/post/5e367f6951882520ea398ef6)
 - [React SSR方案](https://nextjs.frontendx.cn/)
 - [Element UI表单设计及代码生成器](https://github.com/JakHuang/form-generator)
+- [form-create](https://github.com/xaboy/form-create)
 
 ### 个人博客
 - [木易杨，哈罗出行高级前端工程师](https://github.com/yygmind/blog/)
