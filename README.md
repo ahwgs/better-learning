@@ -49,6 +49,7 @@
 - [vue-cli4-config](https://github.com/staven630/vue-cli4-config)
 - [VUE优秀UI组件库合集](https://shimo.im/doc/LkpdnWxM1j40BDJj/)
 - [实战技巧，Vue原来还可以这样写](https://juejin.im/post/5eef7799f265da02cd3b82fe)
+- [vue渲染器](http://hcysun.me/vue-design/zh/essence-of-comp.html)
 
 ### React
 - [译 以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
@@ -247,6 +248,7 @@
 - [组件库文档解决方案](https://github.com/umijs/dumi)
 - [markdown在线转思维导图](https://markmap.js.org/)
 - [logoly logo生成器](https://www.logoly.pro/#/)
+- [super-expressive 声明式写正则](https://github.com/francisrstokes/super-expressive)
 
 ### 在线配色方案网站
 - [渐变色配色](https://webgradients.com/)
@@ -273,7 +275,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/07/20)
+最新更新时间(2020/07/23)
 
 
 - 新增了静态资源页面 
