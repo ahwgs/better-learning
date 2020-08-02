@@ -100,6 +100,7 @@
 - [Flutter中文网](https://flutterchina.club/)
 - [6.9k star Flutter項目 GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter)
 - [Flutter完整开发实战详解](https://guoshuyu.cn/home/wx/)
+- [Flutter 最佳实践：Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates/tree)
 
 ### 面试
 - [面试篇寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
