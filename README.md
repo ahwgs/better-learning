@@ -10,6 +10,7 @@
 - [Javascript编程风格](http://www.ruanyifeng.com/blog/2012/04/javascript_programming_style.html)
 - [凹凸实验室前端代码规范](https://guide.aotu.io/docs/)
 - [vuejs风格指南](https://cn.vuejs.org/v2/style-guide/)
+- [从零开始配置 TypeScript 项目](https://juejin.im/post/6856410900577026061)
 
 ### 组件库与工具
 - [zarm 基于react移动端组件库](https://zarm.design/#/)
@@ -278,7 +279,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/08/02)
+最新更新时间(2020/08/05)
 
 
 - 新增了静态资源页面 
