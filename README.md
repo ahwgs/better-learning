@@ -94,6 +94,7 @@
 - [TypeScript入门教程 https://ts.xcatliu.com/](https://ts.xcatliu.com/)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
 - [TypeScript and React](https://fettblog.eu/typescript-react/)
+- [从零开始配置 TypeScript 项目](https://juejin.im/post/6856410900577026061)
 
 ### Flutter
 - [Dart中文社区](http://dart.goodev.org/)
@@ -279,7 +280,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/08/05)
+最新更新时间(2020/08/21)
 
 
 - 新增了静态资源页面 
