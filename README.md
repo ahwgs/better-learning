@@ -175,6 +175,7 @@
 - [动态表单解决方案 formily](https://github.com/alibaba/formily)
 - [动态表单解决方案 form-render](https://github.com/alibaba/form-render)
 - [为京东PLUS会员保驾护航的日子](https://juejin.im/post/5efbdc116fb9a07e8020328f)
+- [JavaScript 20 年](https://cn.history.js.org/)
 
 ### 浏览器相关
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
@@ -284,7 +285,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/09/23)
+最新更新时间(2020/09/25)
 
 
 - 新增了静态资源页面 
