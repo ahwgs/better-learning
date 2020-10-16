@@ -1,5 +1,6 @@
-# better-learning
-整理收藏一些优秀的文章及大佬博客留着慢慢学习
+# Resource list
+
+整理收集一些文章，项目，工具列表
 
 - 原文: [https://www.ahwgs.cn/youxiuwenzhangshoucang.html](https://www.ahwgs.cn/youxiuwenzhangshoucang.html)
 - github: [https://github.com/ahwgs/better-learning](https://github.com/ahwgs/better-learning)
@@ -260,6 +261,10 @@
 - [super-expressive 声明式写正则](https://github.com/francisrstokes/super-expressive)
 - [手绘风 在线画图](https://excalidraw.com/)
 - [前端进阶之路](https://poetries1.gitee.io/fe-interview/)
+
+### 工具
+- [SwitchHosts,快速整理修改你的hosts文件](https://github.com/oldj/SwitchHosts)
+- [PicGo 一个用于快速上传图片并获取图片 URL 链接的工具](https://github.com/Molunerfinn/PicGo)
 
 ### 在线配色方案网站
 - [渐变色配色](https://webgradients.com/)
