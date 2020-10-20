@@ -52,6 +52,7 @@
 - [VUE优秀UI组件库合集](https://shimo.im/doc/LkpdnWxM1j40BDJj/)
 - [实战技巧，Vue原来还可以这样写](https://juejin.im/post/5eef7799f265da02cd3b82fe)
 - [vue渲染器](http://hcysun.me/vue-design/zh/essence-of-comp.html)
+- [移动端最佳实践](https://github.com/mcuking/mobile-web-best-practice)
 
 ### React
 - [译 以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
@@ -291,7 +292,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/10/16)
+最新更新时间(2020/10/20)
 
 
 - 新增了静态资源页面 
