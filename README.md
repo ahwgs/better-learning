@@ -262,6 +262,7 @@
 - [super-expressive 声明式写正则](https://github.com/francisrstokes/super-expressive)
 - [手绘风 在线画图](https://excalidraw.com/)
 - [前端进阶之路](https://poetries1.gitee.io/fe-interview/)
+- [图怪兽 专业作图](https://818ps.com/)
 
 ### 工具
 - [SwitchHosts,快速整理修改你的hosts文件](https://github.com/oldj/SwitchHosts)
@@ -292,7 +293,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/10/20)
+最新更新时间(2020/11/05)
 
 
 - 新增了静态资源页面 
