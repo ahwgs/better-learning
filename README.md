@@ -153,6 +153,9 @@
 - [RabbitMQ 中文文档](http://rabbitmq.mr-ping.com/)
 - [架构设计之NodeJS操作消息队列RabbitMQ](https://www.cnblogs.com/wukong-holmes/p/9306733.html)
 
+### Docker
+- [从Docker到Kubernetes进阶](https://www.qikqiak.com/k8s-book/)
+
 ### 其他
 - [前端学习书籍](https://github.com/threerocks/studyFiles/tree/master/js)
 - [从 IIFE 聊到 Babel 带你深入了解前端模块化发展体系](https://mp.weixin.qq.com/s?__biz=MzIyNTU1NjQ3MQ==&mid=2247483698&idx=1&sn=05dffe94a50c058c123408530fd80e50&chksm=e87ca3aadf0b2abcc7dadf59c237ccf1f35138a0f80b19ce91b15768f9bb96258dc2e661aae7&mpshare=1&scene=1&srcid=05158eVLfaRLuXOMAfs3TKtx&key=e915f6782fe7b316e85381796db7d8130e045de195be2d1706b2b1321b299cb532d9ce56ee4301ddd43e7699182a8ed0f8cc11d837f39e9ec5b5fad37f3fd571814936728ce4332873573a1115bfe64f&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
@@ -263,7 +266,6 @@
 - [手绘风 在线画图](https://excalidraw.com/)
 - [前端进阶之路](https://poetries1.gitee.io/fe-interview/)
 - [图怪兽 专业作图](https://818ps.com/)
-- [正则调试神器](https://regex101.com/)
 
 ### 工具
 - [SwitchHosts,快速整理修改你的hosts文件](https://github.com/oldj/SwitchHosts)
@@ -294,7 +296,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/11/05)
+最新更新时间(2020/12/10)
 
 
 - 新增了静态资源页面 
