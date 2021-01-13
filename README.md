@@ -182,6 +182,12 @@
 - [动态表单解决方案 form-render](https://github.com/alibaba/form-render)
 - [为京东PLUS会员保驾护航的日子](https://juejin.im/post/5efbdc116fb9a07e8020328f)
 - [JavaScript 20 年](https://cn.history.js.org/)
+- [The Complete Works of Tao Technology 2020](https://static.ahwgs.cn/blog-img/The%20Complete%20Works%20of%20Tao%20Technology%202020.pdf)
+
+### Leetcode
+- [Leetcode 1-919题](https://github.com/grandyang/leetcode)
+- [Leetcode算法分类](https://github.com/wisdompeak/LeetCode)
+- [Leetcode公司分类](https://github.com/afatcoder/LeetcodeTop)
 
 ### 浏览器相关
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
@@ -296,7 +302,7 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
-最新更新时间(2020/12/10)
+最新更新时间(2021/01/13)
 
 
 - 新增了静态资源页面 
