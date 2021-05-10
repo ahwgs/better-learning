@@ -91,6 +91,7 @@
 - [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
 - [细说 webpack 之流程篇](https://fed.taobao.org/blog/2016/09/10/webpack-flow/)
 - [fe-workflow](https://github.com/luoxue-victor/fe-workflow) 
+- [一个基于Rollup的打包](https://github.com/osdoc-dev/avenger)
 
 
 ### TypeScript
