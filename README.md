@@ -54,6 +54,7 @@
 - [vue渲染器](http://hcysun.me/vue-design/zh/essence-of-comp.html)
 - [移动端最佳实践](https://github.com/mcuking/mobile-web-best-practice)
 - [Vue 源码解读](http://hcysun.me/vue-design/zh/)
+- [vite 资源插件列表](https://github.com/vitejs/awesome-vite)
 
 ### React
 - [译 以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
