@@ -165,6 +165,7 @@
 - [结合Babel 7.4.0 谈一下Babel-runtime 和 Babel-polyfill](https://juejin.im/post/5d0373a95188251e1b5ebb6c)
 - [babel-handbook](https://github.com/jamiebuilds/babel-handbook)
 - [傻傻分不清之 —— babel 全家桶](https://vince.xin/2019/06/29/%E5%82%BB%E5%82%BB%E5%88%86%E4%B8%8D%E6%B8%85%E4%B9%8B-%E2%80%94%E2%80%94-babel-%E5%85%A8%E5%AE%B6%E6%A1%B6/)
+- [babel 插件通关秘籍](https://juejin.cn/book/6946117847848321055/section)
 
 ### React Native
 
@@ -336,12 +337,4 @@
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
 
-### 关于
-
-最新更新时间(2021/01/13)
-
-
-- 新增了静态资源页面 
-  使用`node+webhook`构建
-- [http://better-learning.ahwgs.cn/](http://better-learning.ahwgs.cn/)
-- [https://github.com/ahwgs/post-auto-update](
+最新更新时间(2021/05/25)
