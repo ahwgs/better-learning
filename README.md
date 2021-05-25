@@ -4,20 +4,22 @@
 
 - 原文: [https://www.ahwgs.cn/youxiuwenzhangshoucang.html](https://www.ahwgs.cn/youxiuwenzhangshoucang.html)
 - github: [https://github.com/ahwgs/better-learning](https://github.com/ahwgs/better-learning)
-    
 
 ### 协作规范
+
 - [中文技术文档协作规范](https://github.com/ruanyf/document-style-guide)(阮一峰)
 - [Javascript编程风格](http://www.ruanyifeng.com/blog/2012/04/javascript_programming_style.html)
 - [凹凸实验室前端代码规范](https://guide.aotu.io/docs/)
 - [vuejs风格指南](https://cn.vuejs.org/v2/style-guide/)
-- [从零开始配置 TypeScript 项目](https://juejin.im/post/6856410900577026061)
+- [代码安全指南](https://github.com/Tencent/secguide)
 
 ### 组件库与工具
+
 - [zarm 基于react移动端组件库](https://zarm.design/#/)
 - [antd-design 基于react pc端组件库](https://ant.design/docs/react/introduce-cn)
 
 ### 数据结构与算法
+
 - [用JavaScript实现的算法和数据结构](http://conardli.top/docs/)
 - [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)
 - [YaxeZhang/Just-Code](https://github.com/YaxeZhang/Just-Code)
@@ -25,17 +27,20 @@
 - [doocs/leetcode](https://github.com/doocs/leetcode)
 
 ### Event Loop
+
 - [这一次，彻底弄懂 JavaScript - 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 - [一次弄懂Event Loop（彻底解决此类面试问题)](https://juejin.im/post/5c3d8956e51d4511dc72c200)
 - [浏览器与Node的事件循环(Event Loop)有何区别?](https://juejin.im/post/5c337ae06fb9a049bc4cd218)
 - [笔试题——JavaScript事件循环机制（event loop、macrotask、microtask）](https://juejin.im/post/5bac87b6f265da0a906f78d8)
 
 ### 异步编程
+
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
 - [JavaScript异步编程](https://www.ahwgs.cn/javascriptyibubiancheng.html)
 - [9k字 | Promise/async/Generator实现原理解析](https://juejin.im/post/5e3b9ae26fb9a07ca714a5cc)
 
 ### CSS
+
 - [CSS Inspiration -- CSS灵感](https://chokcoco.github.io/CSS-Inspiration/#/)
 - [animate.css CSS动画库](https://github.com/daneden/animate.css)
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css)
@@ -43,6 +48,7 @@
 - [Web图片资源的加载与渲染时机](https://segmentfault.com/a/1190000010032501)
 
 ### Vue
+
 - [learnVue-深入学习vue源码](https://github.com/answershuto/learnVue) 5k star
 - [vue-cli3 项目从搭建优化到docker部署](https://juejin.im/post/5c4a6fcd518825469414e062)
 - [手摸手，带你用vue撸后台 系列五(v4.0新版本)](https://juejin.im/post/5c92ff94f265da6128275a85)
@@ -57,6 +63,7 @@
 - [vite 资源插件列表](https://github.com/vitejs/awesome-vite)
 
 ### React
+
 - [译 以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)
 - [扔掉Create React App，打造你自己的React生成工具！](https://mp.weixin.qq.com/s/76007EbaArO8tp2Lzb6dVA)
 - [知乎-虹晨-你真的理解setState吗？](https://zhuanlan.zhihu.com/p/39512941)
@@ -74,10 +81,12 @@
 
 
 ### Electron
+
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 - [用JS开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
 
 ### Webpack与前端工程化
+
 - [webpack 插件总结归类](https://juejin.im/post/5bd2d2315188252734475575)
 - [干货！撸一个webpack插件(内含tapable详解+webpack流程)](https://juejin.im/post/5beb8875e51d455e5c4dd83f)
 - [深入浅出 Webpack](http://webpack.wuhaolin.cn/)
@@ -95,6 +104,7 @@
 
 
 ### TypeScript
+
 - [TypeScript中文网](https://www.tslang.cn/docs/handbook/basic-types.html)
 - [TypeScript入门教程 https://ts.xcatliu.com/](https://ts.xcatliu.com/)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
@@ -102,6 +112,7 @@
 - [从零开始配置 TypeScript 项目](https://juejin.im/post/6856410900577026061)
 
 ### Flutter
+
 - [Dart中文社区](http://dart.goodev.org/)
 - [Flutter实战教程](https://book.flutterchina.club/)
 - [Flutter中文网](https://flutterchina.club/)
@@ -110,6 +121,7 @@
 - [Flutter 最佳实践：Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates/tree)
 
 ### 面试
+
 - [面试篇寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
 - [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20)
 - [2019年前端面试都聊啥？一起来看看](https://juejin.im/post/5bf5610be51d452a1353b08d)
@@ -122,19 +134,24 @@
 - [腾讯面试四问，Are you OK?](https://juejin.im/post/6854899692178948109)
 
 ### 移动端开发
+
 - [mobileTech-移动端开发所需要的一些资源与小技巧](https://github.com/jtyjty99999/mobileTech)
 - [移动端页面开发适配 rem布局原理](https://segmentfault.com/a/1190000007526917)
 
 ### Nodejs 
+
 - [awesome-nodejs nodejs资源整合 3w star+](https://github.com/sindresorhus/awesome-nodejs)
 
 ### 爬虫
+
 - [这可能是你见过的最全的网络爬虫干货总结](https://juejin.im/post/5bce8201518825773605597d)
 
 ### Nginx
+
 - [Nginx配置参考](https://www.ahwgs.cn/nginxpeizhijilu.html)
 
 ### H5踩坑
+
 - [可能这些是你想要的H5软键盘兼容方案](https://segmentfault.com/a/1190000018959389#articleHeader12)
 - [滚动穿透问题的解决方案](https://juejin.im/post/5c2dc9cce51d45690a254b79)
 - [VUE开发微信H5页面总结](https://juejin.im/post/5c0490ef51882524cb6f5652#heading-0)
@@ -143,23 +160,28 @@
 - [H5 移动端调试全攻略](https://mp.weixin.qq.com/s/-T3h-YuU8WfDhM3pXSI4QQ)
 
 ### Babel
+
 - [【前端词典】关于 Babel 你必须知道的](https://mp.weixin.qq.com/s?__biz=Mzg5NDEyMzA2NQ==&mid=2247484083&idx=1&sn=4268252b548ad5a425308614e9390513&chksm=c0252fe5f752a6f362b7ddf9036dd2bc0764ed427e1c8e042ef7c822f0ced29a4be9cdaaa00f&mpshare=1&scene=1&srcid=0722nH1NoSl07rYkUHlEE3Gi&key=7865e1e5a7ba115efe8818947150b8d5c7491fc6228a650a91bcc0a4cab895c49fbb9ff681b9823ed4efbb214b898e67ea528f5858d62cad17ea854e3016ecd4124461aecdc90161afd70108c0c8b021&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=PWPQgBOm4UzUeMjy6roqmvk6fVPiuY9VoxNoG3wBXcjM7vj0lhks26U3wkrUgBdC)
 - [结合Babel 7.4.0 谈一下Babel-runtime 和 Babel-polyfill](https://juejin.im/post/5d0373a95188251e1b5ebb6c)
 - [babel-handbook](https://github.com/jamiebuilds/babel-handbook)
 - [傻傻分不清之 —— babel 全家桶](https://vince.xin/2019/06/29/%E5%82%BB%E5%82%BB%E5%88%86%E4%B8%8D%E6%B8%85%E4%B9%8B-%E2%80%94%E2%80%94-babel-%E5%85%A8%E5%AE%B6%E6%A1%B6/)
 
 ### React Native
+
 - [React Native之原理浅析](http://blog.poetries.top/2019/10/02/rn-yuanli/)
 
 ### RabbitMQ
+
 - [rabbitmq教程](https://gtcsq.readthedocs.io/en/latest/openstack/rabbitmq_doc.html#)
 - [RabbitMQ 中文文档](http://rabbitmq.mr-ping.com/)
 - [架构设计之NodeJS操作消息队列RabbitMQ](https://www.cnblogs.com/wukong-holmes/p/9306733.html)
 
 ### Docker
+
 - [从Docker到Kubernetes进阶](https://www.qikqiak.com/k8s-book/)
 
 ### 其他
+
 - [前端学习书籍](https://github.com/threerocks/studyFiles/tree/master/js)
 - [从 IIFE 聊到 Babel 带你深入了解前端模块化发展体系](https://mp.weixin.qq.com/s?__biz=MzIyNTU1NjQ3MQ==&mid=2247483698&idx=1&sn=05dffe94a50c058c123408530fd80e50&chksm=e87ca3aadf0b2abcc7dadf59c237ccf1f35138a0f80b19ce91b15768f9bb96258dc2e661aae7&mpshare=1&scene=1&srcid=05158eVLfaRLuXOMAfs3TKtx&key=e915f6782fe7b316e85381796db7d8130e045de195be2d1706b2b1321b299cb532d9ce56ee4301ddd43e7699182a8ed0f8cc11d837f39e9ec5b5fad37f3fd571814936728ce4332873573a1115bfe64f&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [如何通俗易懂地解释React生命周期方法？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490405&idx=1&sn=7c017a93752b7b89873261fa2862833d&chksm=f951ae26ce2627302b724932a2725710a408f168203f7fb7b3db029c5bd81610667c3929c5ba&mpshare=1&scene=1&srcid=0515FjY6VVJ23ArTJovi2RvV&key=5af5195f105422aac9840e7fef5542f9fbd7e8e440ecabc00afec58695b1073bff5b60d0baeebcd75d0ed1a6cf5494e602e9bf8b72c9d027dc05d8c2e564c9c6d8345d1eb011f5fc1ac33ced92d4ba4a&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
@@ -186,13 +208,16 @@
 - [为京东PLUS会员保驾护航的日子](https://juejin.im/post/5efbdc116fb9a07e8020328f)
 - [JavaScript 20 年](https://cn.history.js.org/)
 - [The Complete Works of Tao Technology 2020](https://static.ahwgs.cn/blog-img/The%20Complete%20Works%20of%20Tao%20Technology%202020.pdf)
+- [从零开始配置 TypeScript 项目](https://juejin.im/post/6856410900577026061)
 
 ### Leetcode
+
 - [Leetcode 1-919题](https://github.com/grandyang/leetcode)
 - [Leetcode算法分类](https://github.com/wisdompeak/LeetCode)
 - [Leetcode公司分类](https://github.com/afatcoder/LeetcodeTop)
 
 ### 浏览器相关
+
 - [es6-shim 使得ES6兼容传统浏览器](https://github.com/paulmillr/es6-shim)
 - [html5shiv html5标签被IE识别](https://github.com/aFarkas/html5shiv)
 - [Modernizr 2.3w star+ 检测浏览器功能支持情况的js库,可以检测18项css3功能以及40多项关于h5的功能](https://github.com/Modernizr/Modernizr)
@@ -201,6 +226,7 @@
 - [为你重新系统梳理下， Web 体验优化中和图有关的那些事（万字长文）](https://juejin.im/post/5dc7fb87e51d454b4213c934)
 
 ### 微前端
+
 - [微前端实践心得](https://github.com/mcuking/blog/issues/81)
 - [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40)
 - [微前端在美团外卖的实践](https://juejin.im/post/5e57b6f0f265da57547794c9)
@@ -211,6 +237,7 @@
 - [ 什么是微前端](https://livebook.manning.com/book/micro-frontends-in-action/chapter-1/v-4/)
 
 ### 常见需求
+
 - [一种自动化生成骨架屏的方案](https://github.com/Jocs/jocs.github.io/issues/22)
 - [Web 工程师需要掌握的 38 种 SEO 技巧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490482&idx=2&sn=688aef06f7a8d6ce0a7b79ff5d6914a5&chksm=f951aef1ce2627e74673ee49591866c123a3b35da87323ac31a21ff04ca0ee9bf15dca601329&mpshare=1&scene=1&srcid=05158zruy5BCEIrX1aSzlGw6&key=5af5195f105422aa8f00ac2a500933ae3d33fa938c9d11491c56522759933c542773f882566b05fe8f968f48685fd307f7e3821e78180b67bd6cc03873d81fa1428ee9c60d3622ee69300c25cff3516d&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
 - [九种跨域方式实现原理（完整版）](https://mp.weixin.qq.com/s?__biz=Mzg5ODA5NTM1Mw==&mid=2247483798&idx=1&sn=6ff8502e81f0c88adb3d5c5de8cc91f9&chksm=c0668000f7110916f84e195edacacb276ff714fdfb75cc35c6dbf1a62d9531ff0913b8cae722&mpshare=1&scene=1&srcid=0515RdAZ9iibE9UWEuLyxayy&key=5af5195f105422aab90370e50e460fea70959bf7ec175e8c55f0874a88b38a8237c01d84f2721cf0fc5ca8134ab85f9383ffe99fb7102c98663fe672fee64430ac00bcbcb7924191facd73f5c919634d&ascene=1&uin=MTMyNjQ5OTU2NA%3D%3D&devicetype=Windows+10&version=62060739&lang=zh_CN&pass_ticket=9ZQBVzo%2BOYlRPl750FCt6Md%2FsQcvz2vUIGbn8MvR46rbical%2ByAxGNOICvLd5rFi)
@@ -225,6 +252,7 @@
 - [form-create](https://github.com/xaboy/form-create)
 
 ### 个人博客
+
 - [木易杨，哈罗出行高级前端工程师](https://github.com/yygmind/blog/)
 - [dwqs-Shopee](https://github.com/dwqs/blog)
 - [冴羽的博客](https://github.com/mqyqingfeng/Blog)
@@ -245,6 +273,7 @@
 - [技术胖-专注于前端开发与免费视频](http://jspang.com/)
 
 ### 技术团队
+
 - [大转转FE](http://zzfed.com/#/list)
 - [大搜车「无线开发中心」团队](https://blog.souche.com/)
 - [有赞技术团队](https://tech.youzan.com/)
@@ -256,6 +285,7 @@
 - [Doocs 专注开发知识分享](https://doocs.github.io/#/README_CN)
 
 ### 工具类
+
 - [You-need-to-know-css 常用CSS属性在线演示](https://lhammer.cn/You-need-to-know-css/#/)
 - [手绘风格CSS框架](https://www.getpapercss.com/)
 - [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh/blob/master/README.md)
@@ -277,10 +307,12 @@
 - [图怪兽 专业作图](https://818ps.com/)
 
 ### 工具
+
 - [SwitchHosts,快速整理修改你的hosts文件](https://github.com/oldj/SwitchHosts)
 - [PicGo 一个用于快速上传图片并获取图片 URL 链接的工具](https://github.com/Molunerfinn/PicGo)
 
 ### 在线配色方案网站
+
 - [渐变色配色](https://webgradients.com/)
 - [配色、图片颜色修改、配色提取、logo生成](https://shapefactory.co)
 - [基于色彩原理的扁平插画快速配色](http://colorsupplyyy.com/app/)
@@ -305,10 +337,11 @@
 - [中国风配色](http://zhongguose.com/)
 
 ### 关于
+
 最新更新时间(2021/01/13)
 
 
 - 新增了静态资源页面 
-使用`node+webhook`构建
+  使用`node+webhook`构建
 - [http://better-learning.ahwgs.cn/](http://better-learning.ahwgs.cn/)
-- [https://github.com/ahwgs/post-auto-update](https://github.com/ahwgs/post-auto-update)
+- [https://github.com/ahwgs/post-auto-update](
