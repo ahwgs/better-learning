@@ -101,6 +101,8 @@
 - [细说 webpack 之流程篇](https://fed.taobao.org/blog/2016/09/10/webpack-flow/)
 - [fe-workflow](https://github.com/luoxue-victor/fe-workflow) 
 - [一个基于Rollup的打包](https://github.com/osdoc-dev/avenger)
+- [借助 Module Federation 让 webpack 提速十倍](https://mp.weixin.qq.com/s?__biz=MjM5NDgyODI4MQ==&mid=2247483732&idx=1&sn=6df4c4f1d8c2d2b40cd08517669bbaf6&chksm=a6809bc291f712d42631e0bc75f15e8b6df58519bc76cd1e5326a4d621aa3d5ef42fabd5f307&mpshare=1&scene=1&srcid=0903Shroi0M2xFmr37bposWn&sharer_sharetime=1621941899890&sharer_shareid=14fad19e80671b9c9d5fa85fa2f7351f#rd)
+- [三大应用场景调研，Webpack 新功能 Module Federation 深入解析](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484519&idx=1&sn=b8cfb39a0074b109a44ea7c3c19d8ac1&chksm=cf5b1bfbf82c92edc3521b43e6ebb010e3bca619cb4373c62288ee330557c95be8c3b4951d90&mpshare=1&scene=1&srcid=0525cPf0FKWDghsg5NqSHbrS&sharer_sharetime=1621941931825&sharer_shareid=14fad19e80671b9c9d5fa85fa2f7351f#rd)
 
 
 ### TypeScript
@@ -311,6 +313,14 @@
 
 - [SwitchHosts,快速整理修改你的hosts文件](https://github.com/oldj/SwitchHosts)
 - [PicGo 一个用于快速上传图片并获取图片 URL 链接的工具](https://github.com/Molunerfinn/PicGo)
+
+### 常用 nom 包
+
+- commander https://www.npmjs.com/package/commander
+
+  命令行解决方案
+
+  
 
 ### 在线配色方案网站
 
