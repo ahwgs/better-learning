@@ -212,6 +212,7 @@
 - [JavaScript 20 年](https://cn.history.js.org/)
 - [The Complete Works of Tao Technology 2020](https://static.ahwgs.cn/blog-img/The%20Complete%20Works%20of%20Tao%20Technology%202020.pdf)
 - [从零开始配置 TypeScript 项目](https://juejin.im/post/6856410900577026061)
+- [import、require、export、module.exports 混合使用详解](https://juejin.cn/post/6844903520865386510)
 
 ### Leetcode
 
