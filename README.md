@@ -112,6 +112,7 @@
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
 - [TypeScript and React](https://fettblog.eu/typescript-react/)
 - [从零开始配置 TypeScript 项目](https://juejin.im/post/6856410900577026061)
+- [React+TypeScript 备忘单](https://github.com/typescript-cheatsheets/react)
 
 ### Flutter
 
@@ -348,4 +349,4 @@
 - [配色方案](http://www.vanschneider.com/colors/)
 - [中国风配色](http://zhongguose.com/)
 
-最新更新时间(2021/05/25)
+最新更新时间(2021/06/3)
