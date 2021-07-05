@@ -85,7 +85,7 @@
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 - [用JS开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
 
-### Webpack与前端工程化
+### 前端工程化
 
 - [webpack 插件总结归类](https://juejin.im/post/5bd2d2315188252734475575)
 - [干货！撸一个webpack插件(内含tapable详解+webpack流程)](https://juejin.im/post/5beb8875e51d455e5c4dd83f)
@@ -103,7 +103,7 @@
 - [一个基于Rollup的打包](https://github.com/osdoc-dev/avenger)
 - [借助 Module Federation 让 webpack 提速十倍](https://mp.weixin.qq.com/s?__biz=MjM5NDgyODI4MQ==&mid=2247483732&idx=1&sn=6df4c4f1d8c2d2b40cd08517669bbaf6&chksm=a6809bc291f712d42631e0bc75f15e8b6df58519bc76cd1e5326a4d621aa3d5ef42fabd5f307&mpshare=1&scene=1&srcid=0903Shroi0M2xFmr37bposWn&sharer_sharetime=1621941899890&sharer_shareid=14fad19e80671b9c9d5fa85fa2f7351f#rd)
 - [三大应用场景调研，Webpack 新功能 Module Federation 深入解析](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247484519&idx=1&sn=b8cfb39a0074b109a44ea7c3c19d8ac1&chksm=cf5b1bfbf82c92edc3521b43e6ebb010e3bca619cb4373c62288ee330557c95be8c3b4951d90&mpshare=1&scene=1&srcid=0525cPf0FKWDghsg5NqSHbrS&sharer_sharetime=1621941931825&sharer_shareid=14fad19e80671b9c9d5fa85fa2f7351f#rd)
-
+- [迈入现代 Web 开发（GMTC 2021 演讲《字节跳动的现代 Web 开发实践》全文）](https://mp.weixin.qq.com/s?__biz=MzkxNDIzNTg4MA==&mid=2247484407&idx=1&sn=c3706cdacefe4fd0ee372804ce53b4ce)
 
 ### TypeScript
 
