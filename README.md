@@ -61,6 +61,7 @@
 - [移动端最佳实践](https://github.com/mcuking/mobile-web-best-practice)
 - [Vue 源码解读](http://hcysun.me/vue-design/zh/)
 - [vite 资源插件列表](https://github.com/vitejs/awesome-vite)
+- [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com/)
 
 ### React
 
@@ -214,7 +215,8 @@
 - [The Complete Works of Tao Technology 2020](https://static.ahwgs.cn/blog-img/The%20Complete%20Works%20of%20Tao%20Technology%202020.pdf)
 - [从零开始配置 TypeScript 项目](https://juejin.im/post/6856410900577026061)
 - [import、require、export、module.exports 混合使用详解](https://juejin.cn/post/6844903520865386510)
-
+- [Houdini：CSS 领域最令人振奋的革新](https://zhuanlan.zhihu.com/p/20939640)
+ 
 ### Leetcode
 
 - [Leetcode 1-919题](https://github.com/grandyang/leetcode)
