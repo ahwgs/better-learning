@@ -85,6 +85,8 @@
 
 - [Electron构建跨平台应用Mac/Windows/Linux](https://juejin.im/post/5c46ab47e51d45522b4f55b1)
 - [用JS开发跨平台桌面应用，从原理到实践](https://juejin.im/post/5cfd2ec7e51d45554877a59f)
+- [Electron-playfround](https://github.com/tal-tech/electron-playground)
+- [Electron 网易云音乐](https://github.com/ahwgs/electron-vue-cloud-music)
 
 ### 前端工程化
 
