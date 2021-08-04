@@ -280,6 +280,7 @@
 - [龙恩0707](https://www.cnblogs.com/tugenhua0707/)
 - [荒山 专注React、前端工程化、跨平台开发领域](https://juejin.im/user/5762733b2e958a00696163ea)
 - [技术胖-专注于前端开发与免费视频](http://jspang.com/)
+- [saul-mirone](https://saul-mirone.github.io/)
 
 ### 技术团队
 
